@@ -1,0 +1,158 @@
+{
+  "scenarios": [
+    {
+      "name": "FLOP Airdrop",
+      "role": "test-engineer",
+      "task": "FLOP Airdrop: Langkah Berikutnya Kontribusi FLOP",
+      "slackMessages": [
+        "read_file: {\"content\": \"1|<div align=\\\"center\\\">\\n2|\\n3|# Technocore D…",
+        "terminal: {\"output\": \"total 60\\ndrwxr-xr-x  5 hermes hermes    12 Aug…",
+        "cronjob: {   \"success\": true,   \"count\": 4,   \"jobs\": [     {       …",
+        "read_file: {\"content\": \"1|# Catatan Kontribusi $FLOP / Technocore (jan…"
+      ]
+    },
+    {
+      "name": "Berita",
+      "role": "code-reviewer",
+      "task": "Berita: Penggunaan AI DeepSeek oleh Hacker China",
+      "slackMessages": [
+        "terminal: {\"output\": \"243\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"Mystery Ox Alpha Model Revealed To Be From Chin…",
+        "terminal: {\"output\": \"China’s Z.AI made Ox Alpha stealth model that r…",
+        "terminal: {\"output\": \"edge_ox 5241\\noc_ox 5279\", \"exit_code\": 0, \"err…",
+        "terminal: {\"output\": \"156499 /opt/data/tmp/edge_ox.html\\n268881 /opt/…",
+        "terminal: {\"output\": \"href=\\\"https://cryptobriefing.com/ox-alpha-stea…"
+      ]
+    },
+    {
+      "name": "Riset",
+      "role": "ai-engineer",
+      "task": "Riset: Coba Lagi Setelah Kegagalan",
+      "slackMessages": [
+        "terminal: {\"output\": \"=== VIRTUAL (virtual-protocol) rank 107 ===\\n  …",
+        "write_file: {\"bytes_written\": 3402, \"dirs_created\": true, \"lint\": {\"sta…",
+        "terminal: {\"output\": \"virtual-protocol | VIRTUAL | Virtuals Protocol …",
+        "terminal: {\"output\": \"=== METEORA | harga kini $0.2127 | RSI 60.1 ===…",
+        "write_file: {\"bytes_written\": 2079, \"dirs_created\": true, \"lint\": {\"sta…",
+        "patch: {\"success\": false, \"error\": \"Could not find a match for old…"
+      ]
+    },
+    {
+      "name": "X @lahilapagi",
+      "role": "devops-engineer",
+      "task": "X @lahilapagi: Accessing Shared X Post Link",
+      "slackMessages": [
+        "memory: {\"success\": true, \"done\": true, \"target\": \"memory\", \"usage\"…",
+        "memory: {\"success\": false, \"error\": \"Operation 1 (replace): no entr…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/technocore-did-s…",
+        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"30b8772033e0…",
+        "terminal: {\"output\": \"{\\\"ok\\\": true, \\\"result\\\": {\\\"message_thread_id…",
+        "write_file: {\"bytes_written\": 1863, \"dirs_created\": true, \"lint\": {\"sta…"
+      ]
+    },
+    {
+      "name": "Konten/YouTube",
+      "role": "frontend-developer",
+      "task": "Konten/YouTube: Analisis Highlight Dokumenter BlackRock",
+      "slackMessages": [
+        "terminal: {\"output\": \"copied\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 15846966 Aug 26 05:2…",
+        "vision_analyze: Image loaded into your context — you can see it natively no…",
+        "terminal: {\"output\": \"== BIU_clip1.mp4\\nwidth=1080\\nheight=1920\\ndura…",
+        "process: {\"status\": \"exited\", \"command\": \"/opt/data/tools/venv/bin/p…",
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 15846966 Aug 26 05:2…"
+      ]
+    },
+    {
+      "name": "Monitor Berita",
+      "role": "general-purpose",
+      "task": "Monitor Berita: Buat ulang topik berita AI terhapus",
+      "slackMessages": [
+        "terminal: {\"output\": \"📰 **10 Berita AI/Tech Terbaik — Ide Konten X**\\…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
+        "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"Monitor beri…"
+      ]
+    },
+    {
+      "name": "Topik 124",
+      "role": "general-purpose",
+      "task": "Topik 124: Klarifikasi Bahas Nomor Satu",
+      "slackMessages": [
+        "terminal: {\"output\": \"no cron output dir\\n./scripts/technews_monitor.…",
+        "terminal: {\"output\": \"Error: <urlopen error Remote end closed connect…",
+        "terminal: {\"output\": \"<!doctype html><html lang=\\\"en-US\\\" dir=\\\"ltr\\\"…",
+        "terminal: {\"output\": \"\", \"exit_code\": 56, \"error\": null}",
+        "terminal: {\"output\": \"\", \"exit_code\": 1, \"error\": null, \"approval\": \"…",
+        "terminal: {\"output\": \"{\\\"status\\\":\\\"error\\\",\\\"code\\\":\\\"apiKeyMissing\\…"
+      ]
+    },
+    {
+      "name": "kitaberkahteknik",
+      "role": "devops-engineer",
+      "task": "kitaberkahteknik: Akses Repo GitHub Berkah Teknik",
+      "slackMessages": [
+        "terminal: {\"output\": \"[main 0fd0b8b] Rekap pendapatan ikut periode cu…",
+        "terminal: {\"output\": \"26 Jul  -> 2026-07 | 26 Jul s/d 25 Agu 2026\\n10…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…"
+      ]
+    }
+  ],
+  "chatter": [
+    {
+      "sender": "FLOP Airdrop",
+      "role": "test-engineer",
+      "msg": "siap kerjakan Langkah Berikutnya Kontribusi FLOP"
+    },
+    {
+      "sender": "Berita",
+      "role": "code-reviewer",
+      "msg": "siap kerjakan Penggunaan AI DeepSeek oleh Hacker China"
+    },
+    {
+      "sender": "Riset",
+      "role": "ai-engineer",
+      "msg": "siap kerjakan Coba Lagi Setelah Kegagalan"
+    },
+    {
+      "sender": "X @lahilapagi",
+      "role": "devops-engineer",
+      "msg": "siap kerjakan Accessing Shared X Post Link"
+    },
+    {
+      "sender": "Konten/YouTube",
+      "role": "frontend-developer",
+      "msg": "siap kerjakan Analisis Highlight Dokumenter BlackRock"
+    },
+    {
+      "sender": "Monitor Berita",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Buat ulang topik berita AI terhapus"
+    },
+    {
+      "sender": "Topik 124",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Klarifikasi Bahas Nomor Satu"
+    },
+    {
+      "sender": "kitaberkahteknik",
+      "role": "devops-engineer",
+      "msg": "siap kerjakan Akses Repo GitHub Berkah Teknik"
+    },
+    {
+      "sender": "Crypto Scanner",
+      "role": "devops-engineer",
+      "msg": "scan berkala Crypto Scanner berjalan"
+    },
+    {
+      "sender": "Berita Pagi",
+      "role": "devops-engineer",
+      "msg": "scan berkala Berita Pagi berjalan"
+    }
+  ]
+}
