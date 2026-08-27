@@ -29,12 +29,12 @@
       "role": "ai-engineer",
       "task": "Riset: Coba Lagi Setelah Kegagalan",
       "slackMessages": [
+        "read_file: {\"content\": \"50|  BONK: whale tanpa tx besar 24j | liq 0.05…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…",
         "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "read_file: {\"content\": \"1|=== LAPISAN 1: CoinGecko ===\\n2|  ANSEM: +30…",
         "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"200 <- https://api.nansen.ai\\n000 <- https://na…",
-        "terminal: {\"output\": \"=== VIRTUAL (virtual-protocol) rank 107 ===\\n  …"
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…"
       ]
     },
     {
