@@ -29,12 +29,12 @@
       "role": "ai-engineer",
       "task": "Riset: Coba Lagi Setelah Kegagalan",
       "slackMessages": [
-        "terminal: {\"output\": \"=== VIRTUAL (virtual-protocol) rank 107 ===\\n  …",
-        "write_file: {\"bytes_written\": 3402, \"dirs_created\": true, \"lint\": {\"sta…",
-        "terminal: {\"output\": \"virtual-protocol | VIRTUAL | Virtuals Protocol …",
-        "terminal: {\"output\": \"=== METEORA | harga kini $0.2127 | RSI 60.1 ===…",
-        "write_file: {\"bytes_written\": 2079, \"dirs_created\": true, \"lint\": {\"sta…",
-        "patch: {\"success\": false, \"error\": \"Could not find a match for old…"
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"200 <- https://api.nansen.ai\\n000 <- https://na…",
+        "terminal: {\"output\": \"=== VIRTUAL (virtual-protocol) rank 107 ===\\n  …"
       ]
     },
     {
