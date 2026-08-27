@@ -42,12 +42,12 @@
       "role": "devops-engineer",
       "task": "X @lahilapagi: Accessing Shared X Post Link",
       "slackMessages": [
-        "memory: {\"success\": true, \"done\": true, \"target\": \"memory\", \"usage\"…",
-        "memory: {\"success\": false, \"error\": \"Operation 1 (replace): no entr…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/technocore-did-s…",
-        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"30b8772033e0…",
-        "terminal: {\"output\": \"{\\\"ok\\\": true, \\\"result\\\": {\\\"message_thread_id…",
-        "write_file: {\"bytes_written\": 1863, \"dirs_created\": true, \"lint\": {\"sta…"
+        "terminal: {\"output\": \"chars: 128222\\n---SEARCH KEY BEATS---\\n Now the…",
+        "write_file: {\"bytes_written\": 735, \"dirs_created\": true, \"lint\": {\"stat…",
+        "terminal: {\"output\": \"[info] Writing video subtitles to: cursor_video…",
+        "terminal: {\"output\": \"/opt/data/yt_err.log\\n/opt/data/ytclip-paket-v2…",
+        "terminal: {\"output\": \"https://a16z.com/podcasts/ -> 000\\nhttps://a16z…",
+        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null, \"approval\": \"…"
       ]
     },
     {
