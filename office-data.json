@@ -29,12 +29,12 @@
       "role": "ai-engineer",
       "task": "Riset: Coba Lagi Setelah Kegagalan",
       "slackMessages": [
-        "memory: {\"success\": true, \"done\": true, \"target\": \"memory\", \"usage\"…",
-        "memory: {\"success\": false, \"error\": \"Replacement would put memory a…",
-        "memory: {\"success\": false, \"error\": \"Operation 1 (replace): no entr…",
-        "skill_manage: {\"success\": true, \"message\": \"Skill 'crypto-breakout-scanne…",
-        "read_file: {\"content\": \"26|  CVX: +9.3%\\n27|\\n28|KANDIDAT (25)\\n29|\\n3…",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…"
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'cr…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"VECHAIN $0.00712 RSI85.5 | res=0.00796103677624…",
+        "write_file: {\"bytes_written\": 2416, \"dirs_created\": true, \"lint\": {\"sta…",
+        "terminal: {\"output\": \"COMPILE_OK\", \"exit_code\": 0, \"error\": null}"
       ]
     },
     {
