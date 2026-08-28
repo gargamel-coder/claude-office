@@ -29,12 +29,12 @@
       "role": "ai-engineer",
       "task": "Riset: Coba Lagi Setelah Kegagalan",
       "slackMessages": [
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
         "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'cr…",
         "terminal: {\"output\": \"COMPILE_OK\", \"exit_code\": 0, \"error\": null}",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "read_file: {\"content\": \"355|                                 \\\"CUKUP\\\"…",
-        "read_file: {\"content\": \"63|  DRV: whale tanpa tx besar 24j | liq 0.06\\…"
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…"
       ]
     },
     {
