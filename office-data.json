@@ -29,12 +29,12 @@
       "role": "ai-engineer",
       "task": "Riset: Coba Lagi Setelah Kegagalan",
       "slackMessages": [
-        "read_file: {\"content\": \"60|  KAS: whale - | liq -\\n61|  BP: whale - | …",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
+        "terminal: {\"output\": \"=== FARTCOIN 365 hari ===\\nharga kini $0.1916 |…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/f…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/f…",
+        "terminal: {\"output\": \"=== FARTCOIN 365 hari ===\\nharga kini $0.1914 |…",
+        "write_file: {\"bytes_written\": 4319, \"dirs_created\": true, \"lint\": {\"sta…",
+        "read_file: {\"content\": \"60|  KAS: whale - | liq -\\n61|  BP: whale - | …"
       ]
     },
     {
