@@ -29,12 +29,12 @@
       "role": "ai-engineer",
       "task": "Riset: Coba Lagi Setelah Kegagalan",
       "slackMessages": [
-        "terminal: {\"output\": \"=== FARTCOIN 365 hari ===\\nharga kini $0.1916 |…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/f…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/f…",
-        "terminal: {\"output\": \"=== FARTCOIN 365 hari ===\\nharga kini $0.1914 |…",
-        "write_file: {\"bytes_written\": 4319, \"dirs_created\": true, \"lint\": {\"sta…",
-        "read_file: {\"content\": \"60|  KAS: whale - | liq -\\n61|  BP: whale - | …"
+        "cronjob: {   \"success\": true,   \"message\": \"Cron job 'BTC Watchdog M…",
+        "cronjob: {   \"success\": true,   \"job_id\": \"f39a9df7092d\",   \"name\": …",
+        "terminal: {\"output\": \"COPIED\\n-rw-r--r-- 1 hermes hermes 2827 Aug 29 …",
+        "cronjob: {\"error\": \"Script path must be relative to ~/.hermes/script…",
+        "terminal: {\"output\": \"COMPILE_OK\", \"exit_code\": 0, \"error\": null}",
+        "write_file: {\"bytes_written\": 2827, \"dirs_created\": true, \"lint\": {\"sta…"
       ]
     },
     {
