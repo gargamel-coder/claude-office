@@ -42,12 +42,12 @@
       "role": "devops-engineer",
       "task": "X @lahilapagi: Accessing Shared X Post Link",
       "slackMessages": [
+        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"=== https://r.jina.ai/https://openai.com/index/…",
+        "terminal: {\"output\": \"size: 9981\\nTITLE: ?\\nTEXTLEN: 43\\n Enable Java…",
+        "terminal: {\"output\": \"AUTHOR: @OpenAI - OpenAI | followers: 5133342\\n…",
         "terminal: {\"output\": \"chars: 128222\\n---SEARCH KEY BEATS---\\n Now the…",
-        "write_file: {\"bytes_written\": 735, \"dirs_created\": true, \"lint\": {\"stat…",
-        "terminal: {\"output\": \"[info] Writing video subtitles to: cursor_video…",
-        "terminal: {\"output\": \"/opt/data/yt_err.log\\n/opt/data/ytclip-paket-v2…",
-        "terminal: {\"output\": \"https://a16z.com/podcasts/ -> 000\\nhttps://a16z…",
-        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null, \"approval\": \"…"
+        "write_file: {\"bytes_written\": 735, \"dirs_created\": true, \"lint\": {\"stat…"
       ]
     },
     {
