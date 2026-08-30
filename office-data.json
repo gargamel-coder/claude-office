@@ -3,14 +3,14 @@
     {
       "name": "Riset",
       "role": "ai-engineer",
-      "task": "Riset: menangani topik Riset",
+      "task": "Riset: Hasil Scan Watchlist Kripto Interim",
       "slackMessages": [
+        "terminal: {\"output\": \"=== BTC 365 hari ===\\n  2025-08: min $108,836 m…",
+        "terminal: {\"output\": \"=== WATCHLIST.JSON (terakhir tersimpan) ===\\nma…",
+        "terminal: {\"output\": \"EXIT:124\\n=== LAPISAN 1: CoinGecko ===\\n  HNT: …",
         "terminal: {\"error\": \"Foreground timeout 630s exceeds the maximum of 6…",
         "terminal: {\"output\": \"{\\n \\\"top\\\": [\\n  {\\n   \\\"cid\\\": \\\"unibase\\\",\\n…",
-        "terminal: {\"output\": \"=== LAPISAN 1: CoinGecko ===\\n  HNT: +177.1%\\n …",
-        "terminal: {\"output\": \"=== LAPISAN 1: CoinGecko ===\\n  HNT: +174.4%\\n …",
-        "terminal: {\"output\": \"total 175\\ndrwxrwsr-x  4 hermes hermes    41 Au…",
-        "terminal: {\"output\": \"python3: can't open file '/opt/data/watchlist.p…"
+        "terminal: {\"output\": \"=== LAPISAN 1: CoinGecko ===\\n  HNT: +177.1%\\n …"
       ]
     },
     {
@@ -107,7 +107,7 @@
     {
       "sender": "Riset",
       "role": "ai-engineer",
-      "msg": "siap kerjakan menangani topik Riset"
+      "msg": "siap kerjakan Hasil Scan Watchlist Kripto Interim"
     },
     {
       "sender": "Konten/YouTube",
