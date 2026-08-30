@@ -1,16 +1,29 @@
 {
   "scenarios": [
     {
+      "name": "Riset",
+      "role": "ai-engineer",
+      "task": "Riset: menangani topik Riset",
+      "slackMessages": [
+        "terminal: {\"error\": \"Foreground timeout 630s exceeds the maximum of 6…",
+        "terminal: {\"output\": \"{\\n \\\"top\\\": [\\n  {\\n   \\\"cid\\\": \\\"unibase\\\",\\n…",
+        "terminal: {\"output\": \"=== LAPISAN 1: CoinGecko ===\\n  HNT: +177.1%\\n …",
+        "terminal: {\"output\": \"=== LAPISAN 1: CoinGecko ===\\n  HNT: +174.4%\\n …",
+        "terminal: {\"output\": \"total 175\\ndrwxrwsr-x  4 hermes hermes    41 Au…",
+        "terminal: {\"output\": \"python3: can't open file '/opt/data/watchlist.p…"
+      ]
+    },
+    {
       "name": "Konten/YouTube",
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"221 [08:22] Masalahnya sopo seng wani ya kan\\n2…",
-        "terminal: {\"output\": \"3532 /tmp/dl/tqyyi1hbGIY.id.srt\\nTotal entries:…",
-        "execute_code: {\"status\": \"error\", \"output\": \"\\n--- stderr ---\\nTraceback …",
-        "read_file: {\"content\": \"1|1\\n2|00:00:00,160 --> 00:00:03,480\\n3|Demokr…",
-        "terminal: {\"output\": \"[youtube] Extracting URL: https://youtu.be/tqyy…",
-        "terminal: {\"output\": \"[youtube] Extracting URL: https://youtu.be/tqyy…"
+        "terminal: {\"output\": \"total 28M\\n-rw-r--r-- 1 hermes hermes 8.5M Aug …",
+        "terminal: {\"output\": \"Re-render clip3 fixed...\\nSRC 1280x720  DAR 128…",
+        "terminal: {\"output\": \"'Dialogue: 0,0:00:27.94,0:00:33.04,K,,0,0,0,,du…",
+        "terminal: {\"output\": \"fixed clip3 emosi\\n[]\\nspacing fixed\\nlast 10 w…",
+        "terminal: {\"output\": \"/opt/data/clip2.ass: 'wancara' -> 'wawancara' O…",
+        "terminal: {\"output\": \"==========================================\\n>>>…"
       ]
     },
     {
@@ -35,19 +48,6 @@
         "terminal: {\"output\": \"edge_ox 5241\\noc_ox 5279\", \"exit_code\": 0, \"err…",
         "terminal: {\"output\": \"156499 /opt/data/tmp/edge_ox.html\\n268881 /opt/…",
         "terminal: {\"output\": \"href=\\\"https://cryptobriefing.com/ox-alpha-stea…"
-      ]
-    },
-    {
-      "name": "Riset",
-      "role": "ai-engineer",
-      "task": "Riset: Coba Lagi Setelah Kegagalan",
-      "slackMessages": [
-        "cronjob: {   \"success\": true,   \"message\": \"Cron job 'BTC Watchdog M…",
-        "cronjob: {   \"success\": true,   \"job_id\": \"f39a9df7092d\",   \"name\": …",
-        "terminal: {\"output\": \"COPIED\\n-rw-r--r-- 1 hermes hermes 2827 Aug 29 …",
-        "cronjob: {\"error\": \"Script path must be relative to ~/.hermes/script…",
-        "terminal: {\"output\": \"COMPILE_OK\", \"exit_code\": 0, \"error\": null}",
-        "write_file: {\"bytes_written\": 2827, \"dirs_created\": true, \"lint\": {\"sta…"
       ]
     },
     {
@@ -105,6 +105,11 @@
   ],
   "chatter": [
     {
+      "sender": "Riset",
+      "role": "ai-engineer",
+      "msg": "siap kerjakan menangani topik Riset"
+    },
+    {
       "sender": "Konten/YouTube",
       "role": "frontend-developer",
       "msg": "siap kerjakan Unduh Video YouTube Bocor Alus Jokowi"
@@ -118,11 +123,6 @@
       "sender": "Berita",
       "role": "code-reviewer",
       "msg": "siap kerjakan Penggunaan AI DeepSeek oleh Hacker China"
-    },
-    {
-      "sender": "Riset",
-      "role": "ai-engineer",
-      "msg": "siap kerjakan Coba Lagi Setelah Kegagalan"
     },
     {
       "sender": "X @lahilapagi",
