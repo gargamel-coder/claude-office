@@ -3,9 +3,14 @@
     {
       "name": "Konten/YouTube",
       "role": "frontend-developer",
-      "task": "Konten/YouTube: menangani topik Konten/YouTube",
+      "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "working on: tasks"
+        "terminal: {\"output\": \"221 [08:22] Masalahnya sopo seng wani ya kan\\n2…",
+        "terminal: {\"output\": \"3532 /tmp/dl/tqyyi1hbGIY.id.srt\\nTotal entries:…",
+        "execute_code: {\"status\": \"error\", \"output\": \"\\n--- stderr ---\\nTraceback …",
+        "read_file: {\"content\": \"1|1\\n2|00:00:00,160 --> 00:00:03,480\\n3|Demokr…",
+        "terminal: {\"output\": \"[youtube] Extracting URL: https://youtu.be/tqyy…",
+        "terminal: {\"output\": \"[youtube] Extracting URL: https://youtu.be/tqyy…"
       ]
     },
     {
@@ -102,7 +107,7 @@
     {
       "sender": "Konten/YouTube",
       "role": "frontend-developer",
-      "msg": "siap kerjakan menangani topik Konten/YouTube"
+      "msg": "siap kerjakan Unduh Video YouTube Bocor Alus Jokowi"
     },
     {
       "sender": "FLOP Airdrop",
