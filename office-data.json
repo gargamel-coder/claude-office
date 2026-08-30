@@ -1,6 +1,14 @@
 {
   "scenarios": [
     {
+      "name": "Konten/YouTube",
+      "role": "frontend-developer",
+      "task": "Konten/YouTube: menangani topik Konten/YouTube",
+      "slackMessages": [
+        "working on: tasks"
+      ]
+    },
+    {
       "name": "FLOP Airdrop",
       "role": "test-engineer",
       "task": "FLOP Airdrop: Langkah Berikutnya Kontribusi FLOP",
@@ -51,19 +59,6 @@
       ]
     },
     {
-      "name": "Konten/YouTube",
-      "role": "frontend-developer",
-      "task": "Konten/YouTube: Analisis Highlight Dokumenter BlackRock",
-      "slackMessages": [
-        "terminal: {\"output\": \"copied\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 15846966 Aug 26 05:2…",
-        "vision_analyze: Image loaded into your context — you can see it natively no…",
-        "terminal: {\"output\": \"== BIU_clip1.mp4\\nwidth=1080\\nheight=1920\\ndura…",
-        "process: {\"status\": \"exited\", \"command\": \"/opt/data/tools/venv/bin/p…",
-        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 15846966 Aug 26 05:2…"
-      ]
-    },
-    {
       "name": "Monitor Berita",
       "role": "general-purpose",
       "task": "Monitor Berita: Buat ulang topik berita AI terhapus",
@@ -105,6 +100,11 @@
   ],
   "chatter": [
     {
+      "sender": "Konten/YouTube",
+      "role": "frontend-developer",
+      "msg": "siap kerjakan menangani topik Konten/YouTube"
+    },
+    {
       "sender": "FLOP Airdrop",
       "role": "test-engineer",
       "msg": "siap kerjakan Langkah Berikutnya Kontribusi FLOP"
@@ -123,11 +123,6 @@
       "sender": "X @lahilapagi",
       "role": "devops-engineer",
       "msg": "siap kerjakan Accessing Shared X Post Link"
-    },
-    {
-      "sender": "Konten/YouTube",
-      "role": "frontend-developer",
-      "msg": "siap kerjakan Analisis Highlight Dokumenter BlackRock"
     },
     {
       "sender": "Monitor Berita",
