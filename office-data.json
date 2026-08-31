@@ -3,14 +3,9 @@
     {
       "name": "Riset",
       "role": "ai-engineer",
-      "task": "Riset: Hasil Scan Watchlist Kripto Interim",
+      "task": "Riset: menangani topik Riset",
       "slackMessages": [
-        "cronjob: {   \"success\": true,   \"count\": 7,   \"jobs\": [     {       …",
-        "cronjob: {   \"success\": true,   \"job_id\": \"2710a6ce6ccf\",   \"name\": …",
-        "cronjob: {\"error\": \"Script path must be relative to ~/.hermes/script…",
-        "terminal: {\"output\": \"chmod OK\\nsyntax OK\", \"exit_code\": 0, \"error\": …",
-        "write_file: {\"bytes_written\": 221, \"dirs_created\": true, \"lint\": {\"stat…",
-        "terminal: {\"output\": \"373 /tmp/skill_crypto_breakout_full.md\\n=== GAB…"
+        "working on: tasks"
       ]
     },
     {
@@ -107,7 +102,7 @@
     {
       "sender": "Riset",
       "role": "ai-engineer",
-      "msg": "siap kerjakan Hasil Scan Watchlist Kripto Interim"
+      "msg": "siap kerjakan menangani topik Riset"
     },
     {
       "sender": "Konten/YouTube",
