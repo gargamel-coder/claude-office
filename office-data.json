@@ -5,12 +5,12 @@
       "role": "ai-engineer",
       "task": "Riset: Hasil Scan Watchlist Kripto Interim",
       "slackMessages": [
-        "terminal: {\"output\": \"=== BTC 365 hari ===\\n  2025-08: min $108,836 m…",
-        "terminal: {\"output\": \"=== WATCHLIST.JSON (terakhir tersimpan) ===\\nma…",
-        "terminal: {\"output\": \"EXIT:124\\n=== LAPISAN 1: CoinGecko ===\\n  HNT: …",
-        "terminal: {\"error\": \"Foreground timeout 630s exceeds the maximum of 6…",
-        "terminal: {\"output\": \"{\\n \\\"top\\\": [\\n  {\\n   \\\"cid\\\": \\\"unibase\\\",\\n…",
-        "terminal: {\"output\": \"=== LAPISAN 1: CoinGecko ===\\n  HNT: +177.1%\\n …"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"SYNTAX OK\\n216:_SKIP_MB = []  # coin B yang tak…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
+        "terminal: {\"output\": \"[B] FIGR_HELOC: bukan kompresi (bb_pctl 0.97826…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…"
       ]
     },
     {
