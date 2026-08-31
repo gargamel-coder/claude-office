@@ -5,12 +5,12 @@
       "role": "ai-engineer",
       "task": "Riset: Hasil Scan Watchlist Kripto Interim",
       "slackMessages": [
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"SYNTAX OK\\n216:_SKIP_MB = []  # coin B yang tak…",
+        "terminal: {\"output\": \"SYNTAX OK\", \"exit_code\": 0, \"error\": null}",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "terminal: {\"output\": \"[B] FIGR_HELOC: bukan kompresi (bb_pctl 0.97826…",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…"
+        "todo: {\"todos\": [{\"id\": \"2\", \"content\": \"Tulis signal_tracker.py …",
+        "terminal: {\"output\": \"CLEAN & SYNTAX OK\\nsignals_log.json\", \"exit_cod…",
+        "terminal: {\"output\": \"=== OUTPUT HEADER===\\n72:WATCHLIST SETUP v3 (po…",
+        "terminal: {\"output\": \"=== LAPISAN 1: Universe A [MOMENTUM] + Universe…"
       ]
     },
     {
