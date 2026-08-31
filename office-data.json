@@ -5,12 +5,12 @@
       "role": "ai-engineer",
       "task": "Riset: Hasil Scan Watchlist Kripto Interim",
       "slackMessages": [
-        "terminal: {\"output\": \"25\\n---lolos:\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"=== KANDIDAT ===\\nKANDIDAT: 33 dari A(25) + B(2…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…",
+        "terminal: {\"output\": \"=== LAPISAN 3: Open Interest ===\\n\\n=== LAPISAN…",
         "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "terminal: {\"output\": \"0\\n---lines:\\n22\", \"exit_code\": 0, \"error\": nul…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "skill_manage: {\"success\": true, \"message\": \"Patched references/output-for…"
+        "terminal: {\"output\": \"178\\n---lolos:\\n10\", \"exit_code\": 0, \"error\": n…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…"
       ]
     },
     {
