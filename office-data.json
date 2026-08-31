@@ -5,12 +5,12 @@
       "role": "ai-engineer",
       "task": "Riset: Hasil Scan Watchlist Kripto Interim",
       "slackMessages": [
-        "terminal: {\"output\": \"[B][COMPRESSION] HASH: mc $458jt | cur 0.007997…",
-        "terminal: {\"output\": \"125\\n---lolos:\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"25\\n---lolos:\", \"exit_code\": 0, \"error\": null}",
         "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
-        "terminal: {\"output\": \"=== LAPISAN 1: Universe A [MOMENTUM] + Universe…",
-        "terminal: {\"output\": \"104\\n---lolos:\", \"exit_code\": 1, \"error\": null,…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…"
+        "terminal: {\"output\": \"0\\n---lines:\\n22\", \"exit_code\": 0, \"error\": nul…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/crypto_scann…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched references/output-for…"
       ]
     },
     {
