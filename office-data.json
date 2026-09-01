@@ -3,9 +3,14 @@
     {
       "name": "Riset",
       "role": "ai-engineer",
-      "task": "Riset: menangani topik Riset",
+      "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "working on: tasks"
+        "terminal: {\"output\": \"LINT OK\", \"exit_code\": 0, \"error\": null}",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
+        "terminal: {\"output\": \"BTC      -> HL 🐋 SHORT $40.1jt (9wh)\\nETH      …",
+        "terminal: {\"output\": \"BTC    SHORT net $   -30.6jt  L$1.0jt(3wh) S$31…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…"
       ]
     },
     {
@@ -102,7 +107,7 @@
     {
       "sender": "Riset",
       "role": "ai-engineer",
-      "msg": "siap kerjakan menangani topik Riset"
+      "msg": "siap kerjakan Tracking Whale di Hyperliquid via API"
     },
     {
       "sender": "Konten/YouTube",
