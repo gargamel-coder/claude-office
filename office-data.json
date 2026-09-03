@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"{\\\"commentId\\\":\\\"17966896314160096\\\"}\", \"exit_c…",
-        "terminal: {\"output\": \"201\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"18188417497401722\\nRekomendasi tukang ac di saw…",
-        "terminal: {\"error\": \"Foreground timeout 120000s exceeds the maximum o…",
-        "terminal: {\"error\": \"Foreground timeout 120000s exceeds the maximum o…",
-        "terminal: {\"output\": \"{\\\"docs\\\":[{\\\"id\\\":\\\"18188417497401722\\\",\\\"titl…"
+        "process: {\"processes\": [{\"session_id\": \"proc_023fe718ce34\", \"command…",
+        "read_file: {\"content\": \"1|# -*- coding: utf-8 -*-\\n2|\\\"\\\"\\\"\\n3|Resolve…",
+        "read_file: {\"content\": \"1|# -*- coding: utf-8 -*-\\n2|\\\"\\\"\\\"\\n3|Mesin b…",
+        "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"\\n3|Repliz T…",
+        "process: {\"processes\": [{\"session_id\": \"proc_023fe718ce34\", \"command…",
+        "terminal: {\"output\": \"[service AC] 25 post ditemukan\\n  [SKIP lama] 1…"
       ]
     },
     {
