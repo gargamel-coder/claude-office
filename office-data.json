@@ -18,12 +18,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "terminal: {\"output\": \"=== LAPISAN 3: Open Interest ===\\n\\n=== LAPISAN…",
-        "process: {\"session_id\": \"proc_d325d3d7e664\", \"command\": \"cd /opt/dat…",
-        "terminal: {\"output\": \"[A][MOMENTUM] CRCLON: +16.0%\\n  [A][MOMENTUM] C…",
-        "process: {\"session_id\": \"proc_d325d3d7e664\", \"command\": \"cd /opt/dat…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"LINT OK\\nimport urllib.request\\n\\ndef _dbg(*a, …"
+        "terminal: {\"output\": \"=== FLOKI ===\\nFLOKI / WBNB | harga: 0.00002592…",
+        "terminal: {\"output\": \"{\\\"status\\\":{\\\"error_code\\\":429,\\\"error_message…",
+        "terminal: {\"output\": \"Traceback (most recent call last):\\n  File \\\"<s…",
+        "terminal: {\"output\": \"=== LAPISAN 1: Universe A [MOMENTUM] + Universe…",
+        "terminal: {\"output\": \"=== floki ===\\nharga: 2.598e-05\\nchg24: 8.70685…",
+        "session_search: {\"success\": true, \"mode\": \"discover\", \"query\": \"uniswap sol…"
       ]
     },
     {
