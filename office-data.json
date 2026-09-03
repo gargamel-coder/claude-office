@@ -18,12 +18,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "read_file: {\"content\": \"1|#!/bin/bash\\n2|# Cron runner: scan penuh bre…",
-        "search_files: {\"total_count\": 1, \"files\": [\"/opt/data/scripts/scan_crypto…",
-        "read_file: {\"content\": \"\", \"total_lines\": 0, \"file_size\": 0, \"truncate…",
-        "cronjob: {   \"success\": true,   \"count\": 7,   \"jobs\": [     {       …",
-        "skill_manage: {\"success\": true, \"message\": \"Skill 'hyperliquid-whale-trac…",
-        "skill_manage: {\"success\": false, \"error\": \"Description is 69 chars — new …"
+        "execute_code: {\"status\": \"success\", \"output\": \"=== base (attempt 0) ===\\n…",
+        "execute_code: {\"status\": \"success\", \"output\": \"base: err <urlopen error […",
+        "execute_code: {\"status\": \"success\", \"output\": \"=== all USELESS records ==…",
+        "execute_code: {\"status\": \"success\", \"output\": \"\\n--- semua key pada item …",
+        "execute_code: {\"status\": \"success\", \"output\": \"simple/price raw: {\\\"usele…",
+        "terminal: {\"output\": \"=== useless/useless ===\\nharga$$ None | 24h% No…"
       ]
     },
     {
