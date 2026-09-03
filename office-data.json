@@ -18,12 +18,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "execute_code: {\"status\": \"success\", \"output\": \"=== base (attempt 0) ===\\n…",
-        "execute_code: {\"status\": \"success\", \"output\": \"base: err <urlopen error […",
-        "execute_code: {\"status\": \"success\", \"output\": \"=== all USELESS records ==…",
-        "execute_code: {\"status\": \"success\", \"output\": \"\\n--- semua key pada item …",
-        "execute_code: {\"status\": \"success\", \"output\": \"simple/price raw: {\\\"usele…",
-        "terminal: {\"output\": \"=== useless/useless ===\\nharga$$ None | 24h% No…"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"LINT OK\\nimport urllib.request\\n\\ndef _dbg(*a, …",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
+        "terminal: {\"output\": \"File \\\"/opt/data/crypto_scanner/watchlist.py\\\",…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"generated_at: 2026-09-03 13:32 UTC\\nn_top: 10\\n…"
       ]
     },
     {
