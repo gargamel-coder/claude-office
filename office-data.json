@@ -5,7 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "skill_view: {\"success\": true, \"name\": \"threads-api-automation\", \"descri…"
+        "terminal: {\"output\": \"[service AC] 24 post ditemukan\\n  ✓ dibalas 180…",
+        "read_file: {\"content\": \"1|# ==========================================…",
+        "terminal: {\"output\": \"print(f\\\"     isi file: {DEFAULT_ENV}  (lihat r…",
+        "terminal: {\"output\": \"#!/usr/bin/env python3\\n\\\"\\\"\\\"\\nRepliz Threads …",
+        "terminal: {\"error\": \"Foreground timeout 120000s exceeds the maximum o…",
+        "terminal: {\"output\": \"total 139\\ndrwxrwsr-x  3 hermes hermes    14 Au…"
       ]
     },
     {
