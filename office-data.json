@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"grep: /tmp_repliz_search.json: No such file or …",
-        "terminal: {\"output\": \"{\\\"docs\\\":[{\\\"id\\\":\\\"17998002395808184\\\",\\\"titl…",
-        "terminal: {\"output\": \"head: cannot open '/tmp_repliz_user.json' for r…",
-        "terminal: {\"output\": \"/usr/bin/bash: line 3: jq: command not found\", …",
-        "terminal: {\"output\": \"6a90f51662caae1e04086330\\n0234695469\\nwhiqC5e3G…"
+        "terminal: {\"output\": \"{\\\"commentId\\\":\\\"17966896314160096\\\"}\", \"exit_c…",
+        "terminal: {\"output\": \"201\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"18188417497401722\\nRekomendasi tukang ac di saw…",
+        "terminal: {\"error\": \"Foreground timeout 120000s exceeds the maximum o…",
+        "terminal: {\"error\": \"Foreground timeout 120000s exceeds the maximum o…",
+        "terminal: {\"output\": \"{\\\"docs\\\":[{\\\"id\\\":\\\"18188417497401722\\\",\\\"titl…"
       ]
     },
     {
