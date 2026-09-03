@@ -1,6 +1,14 @@
 {
   "scenarios": [
     {
+      "name": "Topik 3924",
+      "role": "general-purpose",
+      "task": "Topik 3924: Panduan Format Review Layanan Teknik",
+      "slackMessages": [
+        "skill_view: {\"success\": true, \"name\": \"threads-api-automation\", \"descri…"
+      ]
+    },
+    {
       "name": "Riset",
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
@@ -88,22 +96,14 @@
         "terminal: {\"output\": \"\", \"exit_code\": 1, \"error\": null, \"approval\": \"…",
         "terminal: {\"output\": \"{\\\"status\\\":\\\"error\\\",\\\"code\\\":\\\"apiKeyMissing\\…"
       ]
-    },
-    {
-      "name": "kitaberkahteknik",
-      "role": "devops-engineer",
-      "task": "kitaberkahteknik: Akses Repo GitHub Berkah Teknik",
-      "slackMessages": [
-        "terminal: {\"output\": \"[main 0fd0b8b] Rekap pendapatan ikut periode cu…",
-        "terminal: {\"output\": \"26 Jul  -> 2026-07 | 26 Jul s/d 25 Agu 2026\\n10…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/kitaberkahteknik…"
-      ]
     }
   ],
   "chatter": [
+    {
+      "sender": "Topik 3924",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Panduan Format Review Layanan Teknik"
+    },
     {
       "sender": "Riset",
       "role": "ai-engineer",
@@ -138,11 +138,6 @@
       "sender": "Topik 124",
       "role": "general-purpose",
       "msg": "siap kerjakan Klarifikasi Bahas Nomor Satu"
-    },
-    {
-      "sender": "kitaberkahteknik",
-      "role": "devops-engineer",
-      "msg": "siap kerjakan Akses Repo GitHub Berkah Teknik"
     },
     {
       "sender": "Crypto Scanner",
