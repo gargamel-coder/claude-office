@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"[service AC] 23 post ditemukan\\n[servis AC] 25 …",
-        "terminal: {\"output\": \"patched\", \"exit_code\": 0, \"error\": null, \"appro…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "patch: {\"success\": false, \"error\": \"Write denied: '/tmp/repliz_bun…",
-        "terminal: {\"output\": \"[service AC] 26 post ditemukan\\n  [SKIP warning…",
-        "terminal: {\"output\": \"total 143\\ndrwxrwsr-x  3 hermes hermes    14 Au…"
+        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"grep: /tmp_repliz_search.json: No such file or …",
+        "terminal: {\"output\": \"{\\\"docs\\\":[{\\\"id\\\":\\\"17998002395808184\\\",\\\"titl…",
+        "terminal: {\"output\": \"head: cannot open '/tmp_repliz_user.json' for r…",
+        "terminal: {\"output\": \"/usr/bin/bash: line 3: jq: command not found\", …",
+        "terminal: {\"output\": \"6a90f51662caae1e04086330\\n0234695469\\nwhiqC5e3G…"
       ]
     },
     {
