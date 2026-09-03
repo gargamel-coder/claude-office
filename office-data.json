@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "process: {\"processes\": [{\"session_id\": \"proc_023fe718ce34\", \"command…",
-        "read_file: {\"content\": \"1|# -*- coding: utf-8 -*-\\n2|\\\"\\\"\\\"\\n3|Resolve…",
-        "read_file: {\"content\": \"1|# -*- coding: utf-8 -*-\\n2|\\\"\\\"\\\"\\n3|Mesin b…",
-        "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"\\n3|Repliz T…",
-        "process: {\"processes\": [{\"session_id\": \"proc_023fe718ce34\", \"command…",
-        "terminal: {\"output\": \"[service AC] 25 post ditemukan\\n  [SKIP lama] 1…"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "process: {\"status\": \"killed\", \"session_id\": \"proc_023fe718ce34\", \"co…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "terminal: {\"output\": \"TEXT: Gimana caranya ngembangin usaha Service A…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "terminal: {\"output\": \"TEXT: Gimana caranya ngembangin usaha Service A…"
       ]
     },
     {
