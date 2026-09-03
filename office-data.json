@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"[service AC] 24 post ditemukan\\n  [SKIP lama] 1…",
-        "terminal: {\"output\": \"[service AC] 22 post ditemukan\\n[servis AC] 26 …",
-        "terminal: {\"output\": \"[service AC] 21 post ditemukan\\n  [SKIP di luar…",
-        "terminal: {\"error\": \"Foreground timeout 600000s exceeds the maximum o…",
-        "terminal: {\"output\": \"CTA_VARIANTS = [\\n    \\\"Booking langsung lewat …",
-        "terminal: {\"output\": \"# -*- coding: utf-8 -*-\\n\\\"\\\"\\\"\\nMesin balas hu…"
+        "terminal: {\"output\": \"[service AC] 23 post ditemukan\\n[servis AC] 25 …",
+        "terminal: {\"output\": \"patched\", \"exit_code\": 0, \"error\": null, \"appro…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "patch: {\"success\": false, \"error\": \"Write denied: '/tmp/repliz_bun…",
+        "terminal: {\"output\": \"[service AC] 26 post ditemukan\\n  [SKIP warning…",
+        "terminal: {\"output\": \"total 143\\ndrwxrwsr-x  3 hermes hermes    14 Au…"
       ]
     },
     {
