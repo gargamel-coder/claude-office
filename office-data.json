@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
+        "terminal: {\"output\": \"sasmitha -> is_ac: False\\nusaha -> is_ac: False…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
         "terminal: {\"output\": \"is_ac: True\\nwarn: False\\narea: ('Tangerang Sel…",
         "terminal: {\"output\": \"OWNER: sasmitha2993\\nTEXT: Halo warga threads, …",
         "terminal: {\"output\": \"[rekomendasi tukang ac] 24 post ditemukan\\n  [S…",
-        "terminal: {\"output\": \"2958:  ✓ dibalas 18072638738718121 (comment id:…",
-        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"TEXT: Assalamu’alaikum, kaka kaka, minta kontak…"
+        "terminal: {\"output\": \"2958:  ✓ dibalas 18072638738718121 (comment id:…"
       ]
     },
     {
@@ -18,12 +18,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "read_file: {\"content\": \"1|63 sinyal aktif (59 PENDING):\\n2|  IOTA [C] …",
-        "terminal: {\"output\": \"ATTEMPT 1 04:50\\nRETRY 1 EXIT:1 04:53\\nATTEMPT …",
-        "process: {\"session_id\": \"proc_744470f54faf\", \"command\": \"cd /opt/dat…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"AKE: err <urlopen error Tunnel connection faile…",
-        "terminal: {\"output\": \"[A][MOMENTUM] DASH: +19.2%\\n  [A][MOMENTUM] DGA…"
+        "terminal: {\"output\": \"LINT OK\\nAPI_SLEEP: 4\\npreload+dedupe: True\\nbu…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/s…",
+        "read_file: {\"content\": \"198|        save(recs)\\n199|    return changed…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/s…",
+        "read_file: {\"content\": \"123|\\n124|# ---------------- fitur 2: update o…",
+        "read_file: {\"content\": \"1|63 sinyal aktif (59 PENDING):\\n2|  IOTA [C] …"
       ]
     },
     {
