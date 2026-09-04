@@ -1,6 +1,19 @@
 {
   "scenarios": [
     {
+      "name": "Topik 4424",
+      "role": "general-purpose",
+      "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
+      "slackMessages": [
+        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"ed58ce7f1819…",
+        "cronjob: {   \"success\": true,   \"job_id\": \"ed58ce7f1819\",   \"name\": …",
+        "skill_view: {\"success\": true, \"name\": \"crypto-market-scanning\", \"file\":…",
+        "skill_view: {\"success\": true, \"name\": \"crypto-breakout-scanner\", \"descr…",
+        "skill_view: {\"success\": true, \"name\": \"crypto-market-scanning\", \"descri…",
+        "clarify: {\"question\": \"Cron mana yang ingin dijalankan sekarang?\", \"…"
+      ]
+    },
+    {
       "name": "Topik 3924",
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
@@ -88,22 +101,14 @@
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
         "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"Monitor beri…"
       ]
-    },
-    {
-      "name": "Topik 124",
-      "role": "general-purpose",
-      "task": "Topik 124: Klarifikasi Bahas Nomor Satu",
-      "slackMessages": [
-        "terminal: {\"output\": \"no cron output dir\\n./scripts/technews_monitor.…",
-        "terminal: {\"output\": \"Error: <urlopen error Remote end closed connect…",
-        "terminal: {\"output\": \"<!doctype html><html lang=\\\"en-US\\\" dir=\\\"ltr\\\"…",
-        "terminal: {\"output\": \"\", \"exit_code\": 56, \"error\": null}",
-        "terminal: {\"output\": \"\", \"exit_code\": 1, \"error\": null, \"approval\": \"…",
-        "terminal: {\"output\": \"{\\\"status\\\":\\\"error\\\",\\\"code\\\":\\\"apiKeyMissing\\…"
-      ]
     }
   ],
   "chatter": [
+    {
+      "sender": "Topik 4424",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Cron Makro Bitcoin Mingguan"
+    },
     {
       "sender": "Topik 3924",
       "role": "general-purpose",
@@ -138,11 +143,6 @@
       "sender": "Monitor Berita",
       "role": "general-purpose",
       "msg": "siap kerjakan Buat ulang topik berita AI terhapus"
-    },
-    {
-      "sender": "Topik 124",
-      "role": "general-purpose",
-      "msg": "siap kerjakan Klarifikasi Bahas Nomor Satu"
     },
     {
       "sender": "Crypto Scanner",
