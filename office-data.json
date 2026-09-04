@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "process: {\"processes\": [{\"session_id\": \"proc_edcceb9fce7e\", \"command…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "process: {\"status\": \"killed\", \"session_id\": \"proc_023fe718ce34\", \"co…",
+        "terminal: {\"output\": \"TEXT: Assalamu’alaikum, kaka kaka, minta kontak…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "terminal: {\"output\": \"TEXT: Gimana caranya ngembangin usaha Service A…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…"
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "terminal: {\"output\": \"True 194\\n['18146355046536739']\\nis_ac: True\\na…",
+        "terminal: {\"output\": \"=== tukang ac cikarang ===\\ndocs: 23\\n181055140…",
+        "terminal: {\"output\": \"=== count dibalas ===\\n57\\n=== last dibalas ===…"
       ]
     },
     {
