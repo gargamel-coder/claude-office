@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"sasmitha -> is_ac: False\\nusaha -> is_ac: False…",
+        "terminal: {\"output\": \"TEXT: Rekomendasi tukang ac di sawangan dong\\nR…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "terminal: {\"output\": \"is_ac: True\\nwarn: False\\narea: ('Tangerang Sel…",
-        "terminal: {\"output\": \"OWNER: sasmitha2993\\nTEXT: Halo warga threads, …",
-        "terminal: {\"output\": \"[rekomendasi tukang ac] 24 post ditemukan\\n  [S…",
-        "terminal: {\"output\": \"2958:  ✓ dibalas 18072638738718121 (comment id:…"
+        "terminal: {\"output\": \"TEXT: Rekomendasi tukang ac di sawangan dong\\nR…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "read_file: {\"content\": \"435|                \\\"Jakarta Selatan\\\": \\\"Jak…"
       ]
     },
     {
