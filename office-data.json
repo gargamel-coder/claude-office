@@ -32,11 +32,11 @@
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
         "read_file: {\"content\": \"1|\\n2|WATCHLIST SETUP v3 (potensi RR >= 1.5)\\n…",
-        "terminal: {\"output\": \"---\\n-rw-r--r-- 1 hermes hermes 11696 Sep  4 14…",
-        "terminal: {\"output\": \"CG:200\\nCMC:000\", \"exit_code\": 56, \"error\": nul…",
-        "terminal: {\"output\": \"hermes   51260  0.3  1.7  53956 46340 ?        …",
-        "terminal: {\"output\": \"---\\nhermes   51260  0.2  1.5  49324 41708 ?   …",
-        "process: {\"session_id\": \"proc_e6d90af4bcd7\", \"command\": \"bash /opt/d…"
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 11240 Sep  4 15:16 /…",
+        "terminal: {\"output\": \"CG:200\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"CG:000\", \"exit_code\": 56, \"error\": null}",
+        "terminal: {\"output\": \"hermes   51810  0.2  1.4  45864 37904 ?        …",
+        "process: {\"session_id\": \"proc_b7204044b40e\", \"command\": \"bash /opt/d…"
       ]
     },
     {
