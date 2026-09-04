@@ -18,12 +18,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "terminal: {\"output\": \"{\\\"id\\\": \\\"A_1788355908\\\", \\\"timestamp_signal\\\"…",
-        "terminal: {\"output\": \"=== coba A langsung ===\\n{'error': 'coin not fo…",
-        "terminal: {\"output\": \"symbol: H | name: Humanity\\ncoingecko_id: human…",
-        "terminal: {\"output\": \"{\\n \\\"base_token\\\": {\\n  \\\"data\\\": {\\n   \\\"id\\\"…",
-        "terminal: {\"output\": \"=== query: H ===\\nH / USDT 0.25% | harga: 0.078…",
-        "terminal: {\"output\": \"<class 'dict'>\\n{\\\"top\\\": [{\\\"cid\\\": \\\"layerzer…"
+        "terminal: {\"output\": \"LIT: bar1 3.789 >= entry 3.71 -> ACTIVE sejak b…",
+        "process: {\"status\": \"killed\", \"session_id\": \"proc_c3cbee935d7a\", \"co…",
+        "process: {\"session_id\": \"proc_c3cbee935d7a\", \"command\": \"cd /opt/dat…",
+        "process: {\"session_id\": \"proc_cdbf4e0e92fc\", \"command\": \"cd /opt/dat…",
+        "terminal: {\"output\": \"done2\", \"exit_code\": 0, \"error\": null}",
+        "process: {\"session_id\": \"proc_cdbf4e0e92fc\", \"command\": \"cd /opt/dat…"
       ]
     },
     {
