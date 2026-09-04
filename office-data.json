@@ -31,12 +31,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
+        "terminal: {\"output\": \"1. H $0.0820 🔴 TOO\\n   MC $166jt | 24h +3.6% | …",
+        "terminal: {\"output\": \"n_top: 10\\n['best', 'beta_30d', 'btc_regime', '…",
+        "read_file: {\"content\": \"1|\\n2|WATCHLIST SETUP v3 (potensi RR >= 1.5)\\n…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
         "memory: {\"success\": false, \"error\": \"After applying all 2 operation…",
-        "memory: {\"success\": false, \"error\": \"After applying all 1 operation…",
-        "memory: {\"success\": false, \"error\": \"After applying all 2 operation…",
-        "terminal: {\"output\": \"LINT OK\\n1\\n3\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"LINT OK\\n\\n[Command timed out after 30s]\", \"exi…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…"
+        "memory: {\"success\": false, \"error\": \"After applying all 1 operation…"
       ]
     },
     {
