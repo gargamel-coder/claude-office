@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"TEXT: Rekomendasi tukang ac di sawangan dong\\nR…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "terminal: {\"output\": \"TEXT: Rekomendasi tukang ac di sawangan dong\\nR…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "read_file: {\"content\": \"435|                \\\"Jakarta Selatan\\\": \\\"Jak…"
+        "skill_view: {\"success\": true, \"name\": \"repliz-comment-automation\", \"fil…",
+        "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"\\n3|Repliz T…",
+        "skill_view: {\"success\": true, \"name\": \"repliz-comment-automation\", \"des…",
+        "terminal: {\"output\": \"final_url=https://www.threads.com/?error=invali…",
+        "read_file: {\"content\": \"140|\\n141|def run_once(dry_run=False):\\n142|  …",
+        "terminal: {\"output\": \"1803:  [SKIP di luar cakupan] 18089815136188180…"
       ]
     },
     {
@@ -68,12 +68,12 @@
       "role": "code-reviewer",
       "task": "Berita: Penggunaan AI DeepSeek oleh Hacker China",
       "slackMessages": [
-        "terminal: {\"output\": \"243\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"Mystery Ox Alpha Model Revealed To Be From Chin…",
-        "terminal: {\"output\": \"China’s Z.AI made Ox Alpha stealth model that r…",
-        "terminal: {\"output\": \"edge_ox 5241\\noc_ox 5279\", \"exit_code\": 0, \"err…",
-        "terminal: {\"output\": \"156499 /opt/data/tmp/edge_ox.html\\n268881 /opt/…",
-        "terminal: {\"output\": \"href=\\\"https://cryptobriefing.com/ox-alpha-stea…"
+        "terminal: {\"output\": \"[Command interrupted]\", \"exit_code\": 130, \"erro…",
+        "read_file: {\"content\": \"1|{\\\"data\\\":null,\\\"code\\\":403,\\\"name\\\":\\\"Abuse…",
+        "terminal: {\"output\": \"697 /opt/data/tmp/astra_verge.txt\", \"exit_code\"…",
+        "terminal: {\"output\": \"===ASTRA-SAFETY===\\nhref=\\\"https://cxotoday.com…",
+        "read_file: {\"content\": \"251|# [OpenAI unleashes Astra, its most capabl…",
+        "read_file: {\"content\": \"121|\\n122|    *   #### [Health](https://www.fa…"
       ]
     },
     {
@@ -81,12 +81,12 @@
       "role": "devops-engineer",
       "task": "X @lahilapagi: Accessing Shared X Post Link",
       "slackMessages": [
+        "terminal: {\"output\": \"�� which he said then reduces the ability to mo…",
+        "terminal: {\"output\": \"size: 5104\\nTitle: OpenAI launches Astra, its p…",
         "terminal: {\"output\": \"Cursor_AI desc: Coding agent for building ambit…",
         "terminal: {\"output\": \"=== SpaceX Agrees to 0 Billion Cursor Takeover …",
         "terminal: {\"output\": \"=== JINA techcrunch ===\\nTitle: You searched fo…",
-        "terminal: {\"output\": \"=== https://techcrunch.com/?s=cursor ===\\n=== h…",
-        "terminal: {\"output\": \"Why Musk's SpaceX Bought This AI Startup For $6…",
-        "terminal: {\"output\": \"https://techcrunch.com/?s=cursor+spacex -> 200\\…"
+        "terminal: {\"output\": \"=== https://techcrunch.com/?s=cursor ===\\n=== h…"
       ]
     },
     {
