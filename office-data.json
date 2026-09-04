@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
       "slackMessages": [
-        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"ed58ce7f1819…",
-        "cronjob: {   \"success\": true,   \"job_id\": \"ed58ce7f1819\",   \"name\": …",
-        "skill_view: {\"success\": true, \"name\": \"crypto-market-scanning\", \"file\":…",
-        "skill_view: {\"success\": true, \"name\": \"crypto-breakout-scanner\", \"descr…",
-        "skill_view: {\"success\": true, \"name\": \"crypto-market-scanning\", \"descri…",
-        "clarify: {\"question\": \"Cron mana yang ingin dijalankan sekarang?\", \"…"
+        "terminal: {\"output\": \"131566 /tmp/ffday.html\\ncomp idx: 8914\\nevents:…",
+        "terminal: {\"output\": \"395980 /tmp/ffweek.html\\nNon-Farm Employment Ch…",
+        "terminal: {\"output\": \"{\\\"bitcoin\\\":{\\\"usd\\\":79803,\\\"usd_24h_change\\\":…",
+        "browser_navigate: <untrusted_tool_result source=\"browser_navigate\"> The follo…",
+        "terminal: {\"output\": \"2026-09-01T04:30:00-04:00 | Italian Monthly Une…",
+        "terminal: {\"output\": \"[{\\\"title\\\":\\\"G20 Meetings\\\",\\\"country\\\":\\\"All\\…"
       ]
     },
     {
@@ -31,12 +31,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "terminal: {\"output\": \"1. H $0.0820 🔴 TOO\\n   MC $166jt | 24h +3.6% | …",
-        "terminal: {\"output\": \"n_top: 10\\n['best', 'beta_30d', 'btc_regime', '…",
-        "read_file: {\"content\": \"1|\\n2|WATCHLIST SETUP v3 (potensi RR >= 1.5)\\n…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "memory: {\"success\": false, \"error\": \"After applying all 2 operation…",
-        "memory: {\"success\": false, \"error\": \"After applying all 1 operation…"
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'cr…",
+        "skill_view: {\"success\": true, \"name\": \"crypto-breakout-scanner\", \"descr…",
+        "terminal: {\"output\": \"?\\nZEC keys HL: []\\ncatatan ZEC ada di last_rep…",
+        "terminal: {\"output\": \"👁️ WATCHLIST (koin pantauan):\\n- 🟡 METEORA $0.1…",
+        "terminal: {\"output\": \"WATCHLIST SETUP v3 (potensi RR >= 1.5)\\n\\n=== K…",
+        "process: {\"session_id\": \"proc_3472bf9fbec4\", \"command\": \"cd /opt/dat…"
       ]
     },
     {
