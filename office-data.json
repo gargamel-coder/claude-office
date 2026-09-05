@@ -31,12 +31,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "terminal: {\"output\": \"1. UB $0.1357 [TOO]\\n   MC 338jt|24h 12.1|vol 1…",
-        "terminal: {\"output\": \"n_top: 10\\nUB 0.13573676400764725 TOO \\n币安人生 0.…",
-        "terminal: {\"output\": \"---\\ntotal 357\\n-rw-r--r-- 1 hermes hermes 4567…",
-        "read_file: {\"content\": \"1|#!/bin/bash\\n2|# Scan PENUH 20:00 WIB: 200 k…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
         "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 12358 Sep  4 16:19 /…",
-        "cronjob: {   \"success\": true,   \"count\": 9,   \"jobs\": [     {       …"
+        "terminal: {\"output\": \"08-31 06:20 UTC -> 10 sinyal\\n08-31 07:11 UTC -…"
       ]
     },
     {
