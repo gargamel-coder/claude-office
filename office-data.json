@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"is_ac: False\\nwarn: False\\nreply: None\\n===\\nis…",
+        "terminal: {\"output\": \"is_ac: False | reply: 'SKIP' | TEXT: Ada yang b…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "terminal: {\"output\": \"is_ac: False\\nwarn: False\\nreply: 'Lokasinya di…",
+        "read_file: {\"content\": \"230|\\n231|def is_ac_service(text):\\n232|    \\\"…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "read_file: {\"content\": \"244|    if not has_ac:\\n245|        return Fal…",
-        "terminal: {\"output\": \"is_ac: True\\nwarn: False\\nreply: 'Lokasinya di …"
+        "terminal: {\"output\": \"4814:  ✓ dibalas 18087653474356034 (comment id:…",
+        "terminal: {\"output\": \"is_ac: False\\nwarn: False\\nreply: None\\n===\\nis…"
       ]
     },
     {
