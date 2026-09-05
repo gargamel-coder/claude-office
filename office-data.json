@@ -44,12 +44,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"total 28M\\n-rw-r--r-- 1 hermes hermes 8.5M Aug …",
-        "terminal: {\"output\": \"Re-render clip3 fixed...\\nSRC 1280x720  DAR 128…",
-        "terminal: {\"output\": \"'Dialogue: 0,0:00:27.94,0:00:33.04,K,,0,0,0,,du…",
-        "terminal: {\"output\": \"fixed clip3 emosi\\n[]\\nspacing fixed\\nlast 10 w…",
-        "terminal: {\"output\": \"/opt/data/clip2.ass: 'wancara' -> 'wawancara' O…",
-        "terminal: {\"output\": \"==========================================\\n>>>…"
+        "terminal: {\"output\": \"total 46M\\n-rw-rw-r-- 1 hermes hermes 253K Aug …",
+        "terminal: {\"output\": \"=== Render clip2 FIX ===\\nSRC 1280x720  DAR 128…",
+        "terminal: {\"output\": \"=== Render clip2 FIX (29:07 -> 29:07+43.55=29:5…",
+        "terminal: {\"output\": \"clip2_fix: 105 words after trim (cut=43.55)\\n  …",
+        "terminal: {\"output\": \"===== TRANSCRIBE clip2 =====\\nTOTAL 113 words\\n…",
+        "terminal: {\"output\": \"/usr/bin/bash: eval: line 40: syntax error: une…"
       ]
     },
     {
