@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"TEXT: Ada yang punya rekomendasi,untuk jasa cuc…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/geo_r…",
-        "terminal: {\"output\": \"TEXT: Ada yang punya rekomendasi,untuk jasa cuc…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/geo_r…",
-        "terminal: {\"output\": \"cands: []\\ngeo: None\\narea: ('Unknown', None)\\n…",
-        "terminal: {\"output\": \"TEXT: 'Ada yang punya rekomendasi,untuk jasa cu…"
+        "terminal: {\"output\": \"is_ac: False | reply: None | TEXT: Service AC m…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "read_file: {\"content\": \"420|        \\\"Depok\\\": \\\"Depok bisa coba ke\\\",…",
+        "terminal: {\"output\": \"nella -> is_ac: False | reply: 'Depok bisa coba…",
+        "terminal: {\"output\": \"File \\\"<string>\\\", line 15\\n    print(name,'-> …",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…"
       ]
     },
     {
