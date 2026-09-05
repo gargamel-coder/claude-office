@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"[pasang AC] 20 post ditemukan\\n  [SKIP lama] 18…",
-        "process: {\"processes\": [{\"session_id\": \"proc_0b7572765bca\", \"command…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "process: {\"status\": \"killed\", \"session_id\": \"proc_edcceb9fce7e\", \"co…",
-        "process: {\"processes\": [{\"session_id\": \"proc_edcceb9fce7e\", \"command…",
-        "read_file: {\"content\": \"1|#!/usr/bin/env bash\\n2|# Wrapper untuk cron …"
+        "terminal: {\"output\": \"TEXT: info yg bisa cek/service kebocoran AC dae…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "read_file: {\"content\": \"440|        except Exception:\\n441|           …",
+        "terminal: {\"output\": \"TEXT: info yg bisa cek/service kebocoran AC dae…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
+        "read_file: {\"content\": \"137|\\n138|def detect_location(text):\\n139|    …"
       ]
     },
     {
