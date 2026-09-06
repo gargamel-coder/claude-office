@@ -44,12 +44,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"**Deskripsi Lengkap Gam…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
-        "terminal: {\"output\": \"frame=    1 fps=0.0 q=3.0 Lsize=N/A time=00:00:…",
-        "terminal: {\"output\": \"===== /opt/data/clips_final/02_Jokowi_Terus_Ber…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"**Deskripsi Lengkap Gam…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…"
+        "terminal: {\"output\": \"[19:29] yang lu biasanya willing buat?\\n[19:31]…",
+        "terminal: {\"output\": \"[00:00] Dia kantornya Andrew. Gua ketemu sama\\n…",
+        "terminal: {\"output\": \"2:[00:02] Suli, habis itu dia bilang kayak ada\\…",
+        "terminal: {\"output\": \"total segmen: 2736\\nfull.txt ditulis\\n\\n===== m…",
+        "read_file: {\"content\": \"1|1\\n2|00:00:00,240 --> 00:00:04,359\\n3|Dia ka…",
+        "terminal: {\"output\": \"2026.07.04\\n[download] Destination: vid.id.srt\\…"
       ]
     },
     {
