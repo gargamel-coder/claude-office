@@ -44,12 +44,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"[19:29] yang lu biasanya willing buat?\\n[19:31]…",
-        "terminal: {\"output\": \"[00:00] Dia kantornya Andrew. Gua ketemu sama\\n…",
-        "terminal: {\"output\": \"2:[00:02] Suli, habis itu dia bilang kayak ada\\…",
-        "terminal: {\"output\": \"total segmen: 2736\\nfull.txt ditulis\\n\\n===== m…",
-        "read_file: {\"content\": \"1|1\\n2|00:00:00,240 --> 00:00:04,359\\n3|Dia ka…",
-        "terminal: {\"output\": \"2026.07.04\\n[download] Destination: vid.id.srt\\…"
+        "terminal: {\"output\": \"/opt/data/make_clip.py\\nSRC 640x360  DAR 640:36…",
+        "terminal: {\"output\": \"B end idx: 191 {'w': ' gitu.', 's': 80.08, 'e':…",
+        "terminal: {\"output\": \"--- b: 206 kata, clip 3908.06 - 3983.55\\n--- c:…",
+        "terminal: {\"output\": \"D kata 100-155:\\n  100: ' Secara' s=30.96 e=31.…",
+        "terminal: {\"output\": \"B awal: [(' yang', 0.0), (' sebenernya', 0.62),…",
+        "terminal: {\"output\": \"B kandidat awal: 12 {'w': ' Oke,', 's': 5.06, '…"
       ]
     },
     {
