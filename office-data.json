@@ -44,12 +44,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah sebua…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah sebua…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah sebua…",
         "terminal: {\"output\": \"frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00…",
-        "terminal: {\"output\": \"===== /opt/data/clips_final/Bevan_Mentor_Genuin…"
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
+        "terminal: {\"output\": \"frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00…"
       ]
     },
     {
