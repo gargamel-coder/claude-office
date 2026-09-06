@@ -44,11 +44,11 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah sebua…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah sebua…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah sebua…",
-        "terminal: {\"output\": \"frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…",
+        "terminal: {\"output\": \"===== /opt/data/clips_final/Bevan_Mentor_Genuin…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"**Deskripsi Lengkap Gam…",
+        "terminal: {\"output\": \"frame=    1 fps=0.0 q=5.0 Lsize=N/A time=00:00:…",
+        "vision_analyze: {   \"success\": false,   \"error\": \"Error analyzing image: Er…",
         "terminal: {\"output\": \"frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00…"
       ]
     },
