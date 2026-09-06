@@ -31,12 +31,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
+        "terminal: {\"output\": \"- Whale: err HTTP Error 429: Too  | HL: tidak a…",
+        "terminal: {\"output\": \"EXIT:0\\n234 /opt/data/crypto_scanner/night_repo…",
         "terminal: {\"output\": \"hermes    9166  1.2  1.8  55236 47692 ?        …",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
         "cronjob: {   \"success\": true,   \"count\": 9,   \"jobs\": [     {       …",
-        "terminal: {\"output\": \"7. STRK $0.0288 🟡 WAIT TO ENTRY ⚠️ liq TIPIS\\n-…",
-        "terminal: {\"output\": \"generated_at: 2026-09-06 01:07 UTC\\nmakro: {\\n …",
-        "terminal: {\"output\": \"keys: ['top', 'dibuang', 'report', 'makro', 'ge…"
+        "terminal: {\"output\": \"7. STRK $0.0288 🟡 WAIT TO ENTRY ⚠️ liq TIPIS\\n-…"
       ]
     },
     {
