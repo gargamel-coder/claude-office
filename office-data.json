@@ -44,12 +44,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"/opt/data/make_clip.py\\nSRC 640x360  DAR 640:36…",
-        "terminal: {\"output\": \"B end idx: 191 {'w': ' gitu.', 's': 80.08, 'e':…",
-        "terminal: {\"output\": \"--- b: 206 kata, clip 3908.06 - 3983.55\\n--- c:…",
-        "terminal: {\"output\": \"D kata 100-155:\\n  100: ' Secara' s=30.96 e=31.…",
-        "terminal: {\"output\": \"B awal: [(' yang', 0.0), (' sebenernya', 0.62),…",
-        "terminal: {\"output\": \"B kandidat awal: 12 {'w': ' Oke,', 's': 5.06, '…"
+        "terminal: {\"output\": \"[Script Info]\\nScriptType: v4.00+\\nPlayResX: 10…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah foto …",
+        "terminal: {\"output\": \"[libx264 @ 0x55fa21168340] ref B L1: 95.7%  4.3…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah gamba…",
+        "terminal: {\"output\": \"frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"There was a problem wit…"
       ]
     },
     {
