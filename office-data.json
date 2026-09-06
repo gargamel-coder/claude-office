@@ -45,11 +45,11 @@
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
         "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
-        "terminal: {\"output\": \"OK /opt/data/clips_final/02_Jokowi_Terus_Berpol…",
-        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 8.9M Sep  6 01:46 /t…",
         "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
-        "terminal: {\"output\": \"frame=    1 fps=0.0 q=3.0 Lsize=N/A time=00:00:…"
+        "terminal: {\"output\": \"frame=    1 fps=0.0 q=3.0 Lsize=N/A time=00:00:…",
+        "terminal: {\"output\": \"===== /opt/data/clips_final/02_Jokowi_Terus_Ber…",
+        "terminal: {\"output\": \"libswscale      8.  3.100 /  8.  3.100\\n  libsw…",
+        "terminal: {\"output\": \"/tmp/in_k2.mp4\\n/tmp/in_k3.mp4\\n/tmp/in_k5.mp4\"…"
       ]
     },
     {
