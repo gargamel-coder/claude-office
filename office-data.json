@@ -44,12 +44,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…",
-        "read_file: {\"content\": \"1|---\\n2|name: youtube-clip-vertical-subtitles…",
-        "terminal: {\"output\": \"total 46M\\n-rw-rw-r-- 1 hermes hermes 253K Aug …",
-        "terminal: {\"output\": \"=== Render clip2 FIX ===\\nSRC 1280x720  DAR 128…",
-        "terminal: {\"output\": \"=== Render clip2 FIX (29:07 -> 29:07+43.55=29:5…",
-        "terminal: {\"output\": \"clip2_fix: 105 words after trim (cut=43.55)\\n  …"
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
+        "terminal: {\"output\": \"OK /opt/data/clips_final/02_Jokowi_Terus_Berpol…",
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 8.9M Sep  6 01:46 /t…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah scree…",
+        "terminal: {\"output\": \"frame=    1 fps=0.0 q=3.0 Lsize=N/A time=00:00:…"
       ]
     },
     {
