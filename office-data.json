@@ -31,12 +31,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "terminal: {\"output\": \"- Whale: err HTTP Error 429: Too  | HL: tidak a…",
-        "terminal: {\"output\": \"EXIT:0\\n234 /opt/data/crypto_scanner/night_repo…",
-        "terminal: {\"output\": \"hermes    9166  1.2  1.8  55236 47692 ?        …",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "cronjob: {   \"success\": true,   \"count\": 9,   \"jobs\": [     {       …",
-        "terminal: {\"output\": \"7. STRK $0.0288 🟡 WAIT TO ENTRY ⚠️ liq TIPIS\\n-…"
+        "terminal: {\"output\": \"total: 127\\n('PENDING', None) 120\\n('CLOSED', '…",
+        "terminal: {\"output\": \"panjang report: 6774\\nada WATCHLIST: True\\nada …",
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 16678 Sep  6 15:20 n…",
+        "terminal: {\"output\": \"=== MAKRO ===\\n{\\n \\\"regime\\\": \\\"NETRAL\\\",\\n \\\"…",
+        "terminal: {\"output\": \"Mon Sep  7 13:49:18 UTC 2026\\n---\\n-rw-r--r-- 1…",
+        "terminal: {\"output\": \"- Whale: err HTTP Error 429: Too  | HL: tidak a…"
       ]
     },
     {
