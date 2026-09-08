@@ -31,12 +31,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
+        "process: {\"status\": \"exited\", \"command\": \"curl -s -m 25 -A \\\"Mozilla…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"LIT lighter entry 3.71 TP 5.18 SL 3.44 status A…",
         "terminal: {\"output\": \"mendekati TP: EGLD (227%, TP 4.05, kini 4.7)\\nm…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "terminal: {\"output\": \"harga didapat: 94\\ntotal perubahan: 49\\nMASUK Z…",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/crypto_scanne…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…"
       ]
     },
     {
