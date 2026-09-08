@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"[SKIP lama] 18566227762068161 (usia >6 jam)\\n  …",
-        "process: {\"processes\": [{\"session_id\": \"proc_0b7572765bca\", \"command…",
-        "terminal: {\"output\": \"mention: 1 | REPLY: 'Sawangan bisa coba ke @asl…",
+        "terminal: {\"output\": \"'Semarang' -> SKIP-luar\\n'Surabaya' -> SKIP-lua…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…"
+        "read_file: {\"content\": \"141|def run_once(dry_run=False):\\n142|    acc …",
+        "terminal: {\"output\": \"None | nurulbashiroh | Kebetulan di rumah baru …",
+        "terminal: {\"output\": \"semua field: ['createdAt', 'description', 'id',…",
+        "terminal: {\"output\": \"keys: ['docs', 'nextToken']\\ndocs: 23\\n{\\n \\\"id…"
       ]
     },
     {
