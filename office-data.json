@@ -1,6 +1,19 @@
 {
   "scenarios": [
     {
+      "name": "Topik 5307",
+      "role": "general-purpose",
+      "task": "Topik 5307: Dry Run Mode Moderate Tanpa Dana",
+      "slackMessages": [
+        "terminal: {\"output\": \"[2026-09-08T22:52:39.847Z] [INIT] Wallet: AN1DS…",
+        "terminal: {\"output\": \"ok moderate+dryrun\\n{\\n \\\"preset\\\": \\\"moderate\\…",
+        "terminal: {\"output\": \"{\\n \\\"deployAmountSol\\\": 0.1,\\n \\\"dryRun\\\": tru…",
+        "read_file: {\"content\": \"700|  trailingTakeProfit,\\n701|  trailingTrigg…",
+        "read_file: {\"content\": \"1|import fs from \\\"fs\\\";\\n2|import { REPO_ROOT…",
+        "read_file: {\"content\": \"500|  { min: 0.1 }\\n501|);\\n502|\\n503|const tr…"
+      ]
+    },
+    {
       "name": "Topik 4424",
       "role": "general-purpose",
       "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
@@ -88,22 +101,14 @@
         "terminal: {\"output\": \"count 10\\n- Addy Osmani Joins Anthropic, Claude…",
         "terminal: {\"output\": \"{\\\"code\\\":200,\\\"message\\\":\\\"OK\\\",\\\"user\\\":{\\\"sc…"
       ]
-    },
-    {
-      "name": "Monitor Berita",
-      "role": "general-purpose",
-      "task": "Monitor Berita: Buat ulang topik berita AI terhapus",
-      "slackMessages": [
-        "terminal: {\"output\": \"📰 **10 Berita AI/Tech Terbaik — Ide Konten X**\\…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/home/.hermes/scr…",
-        "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"Monitor beri…"
-      ]
     }
   ],
   "chatter": [
+    {
+      "sender": "Topik 5307",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Dry Run Mode Moderate Tanpa Dana"
+    },
     {
       "sender": "Topik 4424",
       "role": "general-purpose",
@@ -138,11 +143,6 @@
       "sender": "X @lahilapagi",
       "role": "devops-engineer",
       "msg": "siap kerjakan Accessing Shared X Post Link"
-    },
-    {
-      "sender": "Monitor Berita",
-      "role": "general-purpose",
-      "msg": "siap kerjakan Buat ulang topik berita AI terhapus"
     },
     {
       "sender": "Crypto Scanner",
