@@ -81,12 +81,12 @@
       "role": "devops-engineer",
       "task": "X @lahilapagi: Accessing Shared X Post Link",
       "slackMessages": [
-        "terminal: {\"output\": \"len 262237\\n--- <meta[^>]+property=\\\"og:title\\\"…",
-        "terminal: {\"output\": \"{\\\"code\\\":404,\\\"message\\\":\\\"Not found\\\"}\\n---di…",
-        "skill_view: {\"success\": true, \"name\": \"antislop\", \"description\": \"Filte…",
-        "skill_view: {\"success\": true, \"name\": \"x-social-content\", \"description\"…",
-        "memory: {\"success\": true, \"done\": true, \"target\": \"memory\", \"usage\"…",
-        "memory: {\"success\": false, \"error\": \"Operation 1 (replace): no entr…"
+        "terminal: {\"output\": \"aude-code-2026)\\n*   [Claude in Chrome: browser…",
+        "terminal: {\"output\": \"Title: Addy Osmani Joins Anthropic to Work on C…",
+        "terminal: {\"output\": \"TEXT: I've joined @AnthropicAI!\\n\\nI'll be work…",
+        "terminal: {\"output\": \"len 217635\\n<meta property=\\\"og:description\\\" c…",
+        "terminal: {\"output\": \"count 10\\n- Addy Osmani Joins Anthropic, Claude…",
+        "terminal: {\"output\": \"{\\\"code\\\":200,\\\"message\\\":\\\"OK\\\",\\\"user\\\":{\\\"sc…"
       ]
     },
     {
