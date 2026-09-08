@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Dry Run Mode Moderate Tanpa Dana",
       "slackMessages": [
-        "terminal: {\"output\": \"[2026-09-08T22:52:39.847Z] [INIT] Wallet: AN1DS…",
-        "terminal: {\"output\": \"ok moderate+dryrun\\n{\\n \\\"preset\\\": \\\"moderate\\…",
-        "terminal: {\"output\": \"{\\n \\\"deployAmountSol\\\": 0.1,\\n \\\"dryRun\\\": tru…",
-        "read_file: {\"content\": \"700|  trailingTakeProfit,\\n701|  trailingTrigg…",
-        "read_file: {\"content\": \"1|import fs from \\\"fs\\\";\\n2|import { REPO_ROOT…",
-        "read_file: {\"content\": \"500|  { min: 0.1 }\\n501|);\\n502|\\n503|const tr…"
+        "terminal: {\"output\": \"orvix/auto | KOSONG/GAGAL 1.5s | {\\\"id\\\":\\\"chat…",
+        "terminal: {\"output\": \"orvix/deepseek-v4-pro | {\\\"error\\\":{\\\"message\\\"…",
+        "terminal: {\"output\": \"orvix/deepseek-v4-pro | http 403 | 0.4s | isi: …",
+        "terminal: {\"output\": \"status: 200\\n- orvix/auto\\n- orvix/deepseek-v4-…",
+        "terminal: {\"output\": \"{\\\"error\\\":{\\\"message\\\":\\\"Invalid API key prefi…",
+        "terminal: {\"output\": \"[2026-09-08T23:25:06.747Z] [TELEGRAM] Bot comma…"
       ]
     },
     {
