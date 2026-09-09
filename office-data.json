@@ -6,11 +6,11 @@
       "task": "Topik 5307: Dry Run Mode Moderate Tanpa Dana",
       "slackMessages": [
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "process: {\"status\": \"killed\", \"session_id\": \"proc_678b1a720883\", \"co…",
+        "process: {\"status\": \"killed\", \"session_id\": \"proc_7adffef8a7ee\", \"co…",
         "terminal: {\"output\": \"OK\", \"exit_code\": 0, \"error\": null}",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
-        "read_file: {\"content\": \"1600|        const pnl = pnlUsd == null ? `${p…",
-        "read_file: {\"content\": \"1570|      await sendMessage(`${formatWalletSt…"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "process: {\"status\": \"killed\", \"session_id\": \"proc_678b1a720883\", \"co…"
       ]
     },
     {
