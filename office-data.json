@@ -6,10 +6,10 @@
       "task": "Topik 5307: Dry Run Mode Moderate Tanpa Dana",
       "slackMessages": [
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "process: {\"status\": \"killed\", \"session_id\": \"proc_52ed68d8f782\", \"co…",
-        "terminal: {\"output\": \"autoSwapAfterClaim: True\\nJSON_OK\", \"exit_code\"…",
-        "terminal: {\"output\": \"tools/executor.js:214:    \\\"autoSwapAfterClaim\\…",
-        "terminal: {\"output\": \"config.js:106:    autoSwapAfterClaim:    u.auto…",
+        "process: {\"status\": \"killed\", \"session_id\": \"proc_f63dbb5bbbb4\", \"co…",
+        "terminal: {\"output\": \"OK\", \"exit_code\": 0, \"error\": null}",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
       ]
     },
