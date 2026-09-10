@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Evaluasi Strategi DLMM dan Saran Profit",
       "slackMessages": [
-        "terminal: {\"output\": \"POOL               HASIL                       …",
-        "terminal: {\"output\": \"{\\n \\\"id\\\": \\\"dry_64BSmy7B_mttk6v22\\\",\\n \\\"pool…",
-        "terminal: {\"output\": \"field volume_5m ada? False\\n[]\\nvolume: None | …",
-        "terminal: {\"output\": \"POOL               HASIL                       …",
-        "terminal: {\"output\": \"64BSmy7B | MINI | masuk 2026-09-09 03:48 | TUTU…",
-        "terminal: {\"output\": \"{\\n  \\\"code\\\": 0,\\n  \\\"data\\\": {\\n    \\\"rank\\\":…"
+        "terminal: {\"output\": \"filter kamu persis (tanpa DLMM): 0 token\\nganti…",
+        "terminal: {\"output\": \"kandidat tanpa gate gas: 1\\ndistribusi gas_fee …",
+        "terminal: {\"output\": \"BITCAT | mcap $673k | holder 1,498 | vol1h $270…",
+        "terminal: {\"output\": \"gas-fee >= 20 → 1 token\\ngas-fee >= 10 → 1 toke…",
+        "terminal: {\"output\": \"{\\n  \\\"code\\\": 0,\\n  \\\"data\\\": {\\n    \\\"rank\\\":…",
+        "terminal: {\"output\": \"hasil filter: 0 token\", \"exit_code\": 0, \"error\"…"
       ]
     },
     {
