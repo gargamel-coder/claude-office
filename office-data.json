@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Evaluasi Strategi DLMM dan Saran Profit",
       "slackMessages": [
+        "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"12:import { config, reloadScreeningThresholds, …",
+        "terminal: {\"output\": \"minMcap: 250000 | maxTvl: 100000\\nfilters lain …",
         "terminal: {\"output\": \"filter kamu persis (tanpa DLMM): 0 token\\nganti…",
-        "terminal: {\"output\": \"kandidat tanpa gate gas: 1\\ndistribusi gas_fee …",
-        "terminal: {\"output\": \"BITCAT | mcap $673k | holder 1,498 | vol1h $270…",
-        "terminal: {\"output\": \"gas-fee >= 20 → 1 token\\ngas-fee >= 10 → 1 toke…",
-        "terminal: {\"output\": \"{\\n  \\\"code\\\": 0,\\n  \\\"data\\\": {\\n    \\\"rank\\\":…",
-        "terminal: {\"output\": \"hasil filter: 0 token\", \"exit_code\": 0, \"error\"…"
+        "terminal: {\"output\": \"kandidat tanpa gate gas: 1\\ndistribusi gas_fee …"
       ]
     },
     {
