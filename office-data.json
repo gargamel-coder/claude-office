@@ -5,11 +5,11 @@
       "role": "general-purpose",
       "task": "Topik 6205: Perlu Tidaknya Repo WalletAnalyzer",
       "slackMessages": [
-        "terminal: {\"output\": \"[2026-09-11T07:59:14.789Z] [BOT] Bot polling st…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/sniper && DR…",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"done\", \"exit_code\": 0, \"error\": null}",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/sniper/bot.js\\n+…",
-        "terminal: {\"output\": \"23814 -lic\\n23820 sniper.js\\n23827 -lic\\n23833 …",
+        "terminal: {\"output\": \"ok\", \"exit_code\": 0, \"error\": null}",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/sniper/config.js…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/sniper && DR…",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
       ]
     },
