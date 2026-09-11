@@ -20,10 +20,10 @@
       "slackMessages": [
         "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"SINTAKS-OK\", \"exit_code\": -15, \"error\": null}",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
-        "read_file: {\"content\": \"1730|      const totModal = lines.reduce((s, l…"
+        "terminal: {\"output\": \"kelola: 20 menit | saring: 30 menit\\nSINTAKS-OK…",
+        "terminal: {\"output\": \"kas: cash 9.86 | deployed 10.14 | start 20\\npos…",
+        "terminal: {\"output\": \"PASAR\\nFee/TVL: 15.90%\\nVolume: $142,896\\nTVL: …",
+        "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}"
       ]
     },
     {
