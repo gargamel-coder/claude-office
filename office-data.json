@@ -20,10 +20,10 @@
       "slackMessages": [
         "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"kelola: 20 menit | saring: 30 menit\\nSINTAKS-OK…",
-        "terminal: {\"output\": \"kas: cash 9.86 | deployed 10.14 | start 20\\npos…",
-        "terminal: {\"output\": \"PASAR\\nFee/TVL: 15.90%\\nVolume: $142,896\\nTVL: …",
-        "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}"
+        "terminal: {\"output\": \"cooldown TP: 3 jam | SL: 3 jam\", \"exit_code\": 0…",
+        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
+        "read_file: {\"content\": \"990|    if (position.pnl_pct == null) return f…",
+        "terminal: {\"output\": \"342:      if (act.action === \\\"CLOSE\\\" && act.r…"
       ]
     },
     {
