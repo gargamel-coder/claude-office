@@ -1,6 +1,19 @@
 {
   "scenarios": [
     {
+      "name": "Topik 6205",
+      "role": "general-purpose",
+      "task": "Topik 6205: Perlu Tidaknya Repo WalletAnalyzer",
+      "slackMessages": [
+        "session_search: {\"success\": true, \"mode\": \"browse\", \"results\": [{\"session_i…",
+        "skill_view: {\"success\": true, \"name\": \"gmgn-token\", \"description\": \"Res…",
+        "terminal: {\"output\": \"401 <- https://api.helius.xyz/v0/addresses/test…",
+        "session_search: {\"success\": true, \"mode\": \"discover\", \"query\": \"menambahkan…",
+        "terminal: {\"output\": \"const axios = require('axios');\\nconst dotenv =…",
+        "terminal: {\"output\": \"=== package.json ===\\n{\\n  \\\"name\\\": \\\"wallet-t…"
+      ]
+    },
+    {
       "name": "Topik 5307",
       "role": "general-purpose",
       "task": "Topik 5307: Evaluasi Strategi DLMM dan Saran Profit",
@@ -88,22 +101,14 @@
         "read_file: {\"content\": \"251|# [OpenAI unleashes Astra, its most capabl…",
         "read_file: {\"content\": \"121|\\n122|    *   #### [Health](https://www.fa…"
       ]
-    },
-    {
-      "name": "X @lahilapagi",
-      "role": "devops-engineer",
-      "task": "X @lahilapagi: Accessing Shared X Post Link",
-      "slackMessages": [
-        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'x-…",
-        "terminal: {\"output\": \".explainx.ai/blog/anthropic-hiring-pay-vs-missi…",
-        "terminal: {\"output\": \"size: 15064\\nTitle: Anthropic Researcher Jacob …",
-        "terminal: {\"output\": \"count 10\\n- Anthropic Researcher Resigns: Jacob…",
-        "terminal: {\"output\": \"count 0\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"KEYS: ['url', 'id', 'text', 'raw_text', 'author…"
-      ]
     }
   ],
   "chatter": [
+    {
+      "sender": "Topik 6205",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Perlu Tidaknya Repo WalletAnalyzer"
+    },
     {
       "sender": "Topik 5307",
       "role": "general-purpose",
@@ -138,11 +143,6 @@
       "sender": "Berita",
       "role": "code-reviewer",
       "msg": "siap kerjakan Penggunaan AI DeepSeek oleh Hacker China"
-    },
-    {
-      "sender": "X @lahilapagi",
-      "role": "devops-engineer",
-      "msg": "siap kerjakan Accessing Shared X Post Link"
     },
     {
       "sender": "Crypto Scanner",
