@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Evaluasi Strategi DLMM dan Saran Profit",
       "slackMessages": [
+        "terminal: {\"output\": \"posisi dihapus: 14 | kas baru: $20\\npool-memory…",
+        "terminal: {\"output\": \"0\\nposisi: 14\\nkas: 12.64 / 20\\nmodel: orvix/gl…",
+        "terminal: {\"output\": \"0\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"2\\nposisi total: 14\\nkas cash: 12.64 start: 20\\…",
         "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"cooldown TP: 3 jam | SL: 3 jam\", \"exit_code\": 0…",
-        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
-        "read_file: {\"content\": \"990|    if (position.pnl_pct == null) return f…",
-        "terminal: {\"output\": \"342:      if (act.action === \\\"CLOSE\\\" && act.r…"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
       ]
     },
     {
