@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
       "slackMessages": [
+        "terminal: {\"output\": \"events: 39\\nSep 10, 2026 | 10-y Bond Auction | …",
+        "terminal: {\"output\": \"<!doctype html>\\n<html itemscope=\\\"itemscope\\\" …",
+        "terminal: {\"output\": \"exit:0\\n5357 /tmp/ffd_sep10b.html\\ncomp: -1\\n--…",
         "terminal: {\"output\": \"== Asian+stocks+fall+oil+surge+Treasury+yields …",
         "skill_view: {\"success\": true, \"name\": \"news-link-resolver\", \"descriptio…",
-        "browser_navigate: <untrusted_tool_result source=\"browser_navigate\"> The follo…",
-        "browser_navigate: <untrusted_tool_result source=\"browser_navigate\"> The follo…",
-        "terminal: {\"output\": \"5119\\ncomp: -1\\n---yesterday---\", \"exit_code\": …",
-        "terminal: {\"output\": \"{\\\"bitcoin\\\":{\\\"usd\\\":78116,\\\"usd_24h_change\\\":…"
+        "browser_navigate: <untrusted_tool_result source=\"browser_navigate\"> The follo…"
       ]
     },
     {
