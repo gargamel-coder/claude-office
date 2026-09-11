@@ -31,12 +31,12 @@
       "role": "general-purpose",
       "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
       "slackMessages": [
+        "terminal: {\"output\": \"158859 /tmp/ffd_sep11.html\\ncomp: 8914\\nevents:…",
         "cronjob: {   \"success\": true,   \"job_id\": \"7ae35ca333f4\",   \"name\": …",
         "terminal: {\"output\": \"events: 39\\nSep 10, 2026 | 10-y Bond Auction | …",
         "terminal: {\"output\": \"<!doctype html>\\n<html itemscope=\\\"itemscope\\\" …",
         "terminal: {\"output\": \"exit:0\\n5357 /tmp/ffd_sep10b.html\\ncomp: -1\\n--…",
-        "terminal: {\"output\": \"== Asian+stocks+fall+oil+surge+Treasury+yields …",
-        "skill_view: {\"success\": true, \"name\": \"news-link-resolver\", \"descriptio…"
+        "terminal: {\"output\": \"== Asian+stocks+fall+oil+surge+Treasury+yields …"
       ]
     },
     {
