@@ -18,12 +18,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Evaluasi Strategi DLMM dan Saran Profit",
       "slackMessages": [
-        "terminal: {\"output\": \"posisi total: 2\\n- ALL-SOL | modal: 10.23 | tut…",
-        "process: {\"status\": \"killed\", \"session_id\": \"proc_70d1b155018b\", \"co…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/meridian && …",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/meridian && …",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}"
+        "terminal: {\"output\": \"holder tercatat: 100\\ntop10 gabungan: 0.0 %\\n==…",
+        "terminal: {\"output\": \"list 1\\norganik: 88.91707908907114 | holder: 12…",
+        "terminal: {\"output\": \"== Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump…",
+        "terminal: {\"output\": \"{\\n \\\"token_x\\\": {\\n  \\\"address\\\": \\\"Ai66LHZG9M…",
+        "terminal: {\"output\": \"CATE mints: \\nFRIES mints:\", \"exit_code\": 0, \"e…",
+        "terminal: {\"output\": \"== 7EJqZHD4TTk8B9BCjUwLtfssGbxiDAsrbFHT8YWgrE7U…"
       ]
     },
     {
