@@ -22,8 +22,8 @@
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
         "terminal: {\"output\": \"SINTAKS-OK\\n0\", \"exit_code\": 0, \"error\": null}",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
-        "read_file: {\"content\": \"1834|      // Per-transaksi: 1 posisi = event …"
+        "read_file: {\"content\": \"794|\\n795|  // Fast PnL poller — the real-time…",
+        "terminal: {\"output\": \"confirmTicks: None | pnl.confirmTicks: None | p…"
       ]
     },
     {
