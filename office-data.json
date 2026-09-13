@@ -5,11 +5,11 @@
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
       "slackMessages": [
-        "terminal: {\"output\": \"tokenXMint: this.lbPair.tokenXMint,\\n      toke…",
-        "terminal: {\"output\": \"at async DLMM.swapWithPriceImpact (/opt/data/me…",
-        "terminal: {\"output\": \"{\\\"jsonrpc\\\":\\\"2.0\\\",\\\"error\\\":{\\\"code\\\":-32602…",
-        "terminal: {\"output\": \"Transaction punya getter message? False\\nVersio…",
-        "terminal: {\"output\": \"if (!transaction.signature) {\\n          throw …",
+        "terminal: {\"output\": \"bigint: Failed to load bindings, pure JS will b…",
+        "terminal: {\"output\": \"at process.processTicksAndRejections (node:inte…",
+        "terminal: {\"output\": \"at async getEstimatedComputeUnitUsageWithBuffer…",
+        "terminal: {\"output\": \"SINTAKS-OK\\nMessage: Transaction simulation fai…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/tools/d…",
         "terminal: {\"output\": \"at async DLMM.swapWithPriceImpact (/opt/data/me…"
       ]
     },
