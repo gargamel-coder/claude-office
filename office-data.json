@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
       "slackMessages": [
-        "terminal: {\"output\": \"POS EMBER-SOL | pnl_usd 0.0002 | total_value 5.…",
-        "terminal: {\"output\": \"at deriveBinArrayBitmapExtension (/opt/data/mer…",
+        "terminal: {\"output\": \"[2026-09-13T17:02:32.854Z] [DEPLOY] Amount: 0 X…",
+        "terminal: {\"output\": \"pool_name = EMBER-SOL\\nstrategy = bid_ask\\nbin_…",
         "terminal: {\"output\": \"\", \"exit_code\": 1, \"error\": null}",
-        "terminal: {\"output\": \"SOL: 0.09176\", \"exit_code\": 0, \"error\": null}",
-        "terminal: {\"output\": \"SOL wallet: 0.0918 ×00.6 = 9.23\\nPosition value…",
-        "terminal: {\"output\": \"SOL wallet (nyata): 0.091761698\\nPOSISI:  | X: …"
+        "terminal: {\"output\": \"29686 29690 \\n[2026-09-13T17:20:48.981Z] [START…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"0\", \"exit_code\": 0, \"error\": null}"
       ]
     },
     {
