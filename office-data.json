@@ -21,9 +21,9 @@
         "terminal: {\"output\": \"2\", \"exit_code\": 0, \"error\": null}",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
         "terminal: {\"output\": \"SINTAKS-OK\\n0\", \"exit_code\": 0, \"error\": null}",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/telegra…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/telegra…",
-        "terminal: {\"output\": \"deployed: dry_6WwtGMXu_mtzfi85a\\ntotal sekarang…"
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/index.j…",
+        "terminal: {\"output\": \"1067:let _latestCandidates = [];\", \"exit_code\":…"
       ]
     },
     {
