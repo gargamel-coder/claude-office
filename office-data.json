@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
       "slackMessages": [
-        "terminal: {\"output\": \"[2026-09-13T18:58:01.581Z] [AGENT] Step 4/20\\n[…",
-        "terminal: {\"output\": \"32320 32324 \\n[2026-09-13T18:57:50.978Z] [DEPLO…",
-        "terminal: {\"output\": \"=== TACZ-SOL\\n  step: 200 | fee%: 100 | dynamic…",
-        "terminal: {\"output\": \"address: 8TNPC3TCLaKQsEkSWk2MzHLpD57rVc2uUMgVKJ…",
-        "terminal: {\"output\": \"=== 9yXn4EW9 TACZ-SOL\\n tvl 35272.89240825739 |…",
-        "terminal: {\"output\": \"=== 9yXn4EW9EJWC3iuNN9Cbss1KxpfHE1sVDzprTcCxzmY…"
+        "terminal: {\"output\": \"{\\\"jsonrpc\\\":\\\"2.0\\\",\\\"result\\\":{\\\"context\\\":{\\…",
+        "terminal: {\"output\": \"WALLET purpFPo5vo = 0.060505\", \"exit_code\": 0, …",
+        "terminal: {\"output\": \"WALLET purpFPo5vo = 0.060505\", \"exit_code\": 0, …",
+        "terminal: {\"output\": \"=== ktrl.log ===\\n{\\n  \\\"success\\\": true,\\n  \\\"…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"PURPS cooldown: None\", \"exit_code\": 0, \"error\":…"
       ]
     },
     {
