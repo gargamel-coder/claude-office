@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
       "slackMessages": [
-        "terminal: {\"output\": \"bigint: Failed to load bindings, pure JS will b…",
-        "terminal: {\"output\": \"at process.processTicksAndRejections (node:inte…",
-        "terminal: {\"output\": \"at async getEstimatedComputeUnitUsageWithBuffer…",
-        "terminal: {\"output\": \"SINTAKS-OK\\nMessage: Transaction simulation fai…",
+        "terminal: {\"output\": \"SINTAKS-OK\\nlegacy sign ERR: Cannot read proper…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/meridian/tools/d…",
-        "terminal: {\"output\": \"at async DLMM.swapWithPriceImpact (/opt/data/me…"
+        "read_file: {\"content\": \"962|  log(\\\"deploy\\\", `Position: ${newPosition…",
+        "terminal: {\"output\": \"at async file:///opt/data/meridian/[eval1]:22:1…",
+        "terminal: {\"output\": \"name: \\\"InvalidInput\\\",       msg: \\\"Invalid in…",
+        "terminal: {\"output\": \"at async file:///opt/data/meridian/[eval1]:21:1…"
       ]
     },
     {
