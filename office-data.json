@@ -1,6 +1,19 @@
 {
   "scenarios": [
     {
+      "name": "Topik 5307",
+      "role": "general-purpose",
+      "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
+      "slackMessages": [
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'me…",
+        "terminal: {\"output\": \"slCooldownHours: 3 | tpCooldownHours: 3\\n68:fun…",
+        "vision_analyze: Image loaded into your context — you can see it natively no…",
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 3750 Sep 13 06:47 to…",
+        "read_file: {\"content\": \"640|  // Strip model artifacts like \\\"<|channe…",
+        "search_files: {\"total_count\": 1, \"matches\": [{\"path\": \"/opt/data/meridian…"
+      ]
+    },
+    {
       "name": "Topik 6205",
       "role": "general-purpose",
       "task": "Topik 6205: Perlu Tidaknya Repo WalletAnalyzer",
@@ -11,19 +24,6 @@
         "terminal: {\"output\": \"-lic\\nbot.js\\n-lic\\nsniper.js\\n---log terakhir-…",
         "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/sniper && DR…",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
-      ]
-    },
-    {
-      "name": "Topik 5307",
-      "role": "general-purpose",
-      "task": "Topik 5307: Evaluasi Strategi DLMM dan Saran Profit",
-      "slackMessages": [
-        "terminal: {\"output\": \"42:import { log, logAction } from \\\"../logger.j…",
-        "terminal: {\"output\": \"\", \"exit_code\": 1, \"error\": null, \"exit_code_me…",
-        "terminal: {\"output\": \"\", \"exit_code\": -1, \"error\": \"BLOCKED (hardline…",
-        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
-        "read_file: {\"content\": \"637|export async function executeTool(name, ar…",
-        "terminal: {\"output\": \"agent.js:7:import { executeTool } from \\\"./tool…"
       ]
     },
     {
@@ -105,14 +105,14 @@
   ],
   "chatter": [
     {
+      "sender": "Topik 5307",
+      "role": "general-purpose",
+      "msg": "siap kerjakan Perbaikan Bug Deploy Hantu base_mint"
+    },
+    {
       "sender": "Topik 6205",
       "role": "general-purpose",
       "msg": "siap kerjakan Perlu Tidaknya Repo WalletAnalyzer"
-    },
-    {
-      "sender": "Topik 5307",
-      "role": "general-purpose",
-      "msg": "siap kerjakan Evaluasi Strategi DLMM dan Saran Profit"
     },
     {
       "sender": "Topik 4424",
