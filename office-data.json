@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
       "slackMessages": [
-        "terminal: {\"output\": \"{\\\"jsonrpc\\\":\\\"2.0\\\",\\\"result\\\":{\\\"context\\\":{\\…",
-        "terminal: {\"output\": \"WALLET purpFPo5vo = 0.060505\", \"exit_code\": 0, …",
-        "terminal: {\"output\": \"WALLET purpFPo5vo = 0.060505\", \"exit_code\": 0, …",
-        "terminal: {\"output\": \"=== ktrl.log ===\\n{\\n  \\\"success\\\": true,\\n  \\\"…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"PURPS cooldown: None\", \"exit_code\": 0, \"error\":…"
+        "terminal: {\"output\": \"[2026-09-14T00:59:47.796Z] [DEPLOY] Two-sided l…",
+        "terminal: {\"output\": \"Volume: $162,315\\nTVL: $122,855\\nVolatilitas: 2…",
+        "terminal: {\"output\": \"[2026-09-14T00:56:57.581Z] [TELEGRAM] Bot polli…",
+        "terminal: {\"output\": \"[2026-09-14T00:52:51.069Z] [PNL_TICK] poller al…",
+        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null}",
+        "terminal: {\"output\": \"35814 35819 \\n[2026-09-14T00:56:57.656Z] [INIT]…"
       ]
     },
     {
