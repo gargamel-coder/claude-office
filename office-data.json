@@ -5,12 +5,12 @@
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
       "slackMessages": [
-        "terminal: {\"output\": \"[2026-09-14T10:26:39.371Z] [STARTUP] Repo: /opt…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"SINTAKS-OK\\nDRY_RUN= HELIUS_API_KEY= LLM_BASE_U…",
-        "terminal: {\"output\": \"[2026-09-14T10:15:04.283Z] [POSITIONS] Computin…",
-        "terminal: {\"output\": \"[2026-09-14T10:10:26.413Z] [WALLET_WARN] HELIUS…",
-        "terminal: {\"output\": \"[2026-09-14T10:10:22.310Z] [POSITIONS] Computin…"
+        "terminal: {\"output\": \"[2026-09-14T10:47:41.254Z] [SCREENING] Filtered…",
+        "terminal: {\"output\": \"[2026-09-14T08:42:45.838Z] [CLOSE] SUCCESS txs:…",
+        "terminal: {\"output\": \"[2026-09-14T10:47:41.254Z] [SCREENING] Filtered…",
+        "terminal: {\"output\": \"8565       31:37 /usr/bin/bash -lic set +m; cd …",
+        "terminal: {\"output\": \"[Command interrupted]\", \"exit_code\": 130, \"erro…",
+        "terminal: {\"output\": \"[2026-09-14T10:52:36.750Z] [AGENT] Step 2/20\\n[…"
       ]
     },
     {
