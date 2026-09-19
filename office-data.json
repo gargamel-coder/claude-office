@@ -57,12 +57,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "read_file: {\"content\": \"1055|lines.append(\\\"- SL di bawah support/leve…",
-        "read_file: {\"content\": \"568|actionable = [r for r in watch if \\\"best\\\"…",
-        "read_file: {\"content\": \"250|                    if ts / 1000 >= t0 - 8…",
-        "search_files: {\"total_count\": 18, \"matches_format\": \"path-grouped: each f…",
-        "read_file: {\"content\": \"568|actionable = [r for r in watch if \\\"best\\\"…",
-        "terminal: {\"output\": \"=== jarak SL % ===\\nTP_HIT n 9 p25 2.93 med 3.4…"
+        "todo: {\"todos\": [{\"id\": \"1\", \"content\": \"Audit data outcome (TP/S…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'cr…",
+        "skills_list: {\"success\": true, \"skills\": [], \"categories\": [], \"count\": …",
+        "terminal: {\"output\": \"[Command timed out after 15s]\", \"exit_code\": 12…",
+        "terminal: {\"output\": \"LINT_OK\", \"exit_code\": 0, \"error\": null}",
+        "search_files: {\"total_count\": 0}"
       ]
     },
     {
