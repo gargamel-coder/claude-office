@@ -44,12 +44,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null, \"approval\": \"…",
-        "todo: {\"todos\": [{\"id\": \"1\", \"content\": \"Baca kode filter, lokasi…",
-        "terminal: {\"output\": \"[service AC] 22 post ditemukan\\n  [SKIP lama] 1…",
-        "todo: {\"todos\": [{\"id\": \"1\", \"content\": \"Baca kode filter, lokasi…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/geo_r…",
-        "read_file: {\"content\": \"1|#!/usr/bin/env bash\\n2|# Wrapper untuk cron …"
+        "terminal: {\"output\": \"[SKIP lama] 18324463723262901 (usia >6 jam)\\n  …",
+        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"72d9d354fed2…",
+        "terminal: {\"output\": \"Sun Sep 20 06:32:41 UTC 2026\\n===WIB===\\nSun Se…",
+        "read_file: {\"content\": \"1|#!/usr/bin/env bash\\n2|# Wrapper untuk cron …",
+        "cronjob: {   \"success\": true,   \"count\": 9,   \"jobs\": [     {       …",
+        "terminal: {\"output\": \"\", \"exit_code\": 0, \"error\": null, \"approval\": \"…"
       ]
     },
     {
