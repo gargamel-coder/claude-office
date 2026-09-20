@@ -57,12 +57,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
+        "skill_manage: [Tool execution skipped — skill_manage was not started. Use…",
+        "skill_manage: [Tool execution skipped — skill_manage was not started. Use…",
+        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"8e65aa49ae07…",
         "terminal: {\"output\": \"LINT_OK\\ncache files: 248\\n--- kill old night s…",
         "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…",
-        "read_file: {\"content\": \"728|    elif conc_eth > n / 2:\\n729|        to…",
-        "read_file: {\"content\": \"418|        ag = (ag*(period-1) + max(d,0)) / …",
-        "read_file: {\"content\": \"385|                continue\\n386|            …"
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/w…"
       ]
     },
     {
