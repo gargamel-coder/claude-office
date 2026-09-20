@@ -44,12 +44,12 @@
       "role": "general-purpose",
       "task": "Topik 3924: Panduan Format Review Layanan Teknik",
       "slackMessages": [
-        "terminal: {\"output\": \"'karangploso' -> SKIP-luar(geo)\\n'Semarang' -> …",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/repli…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/repliz_bot/geo_r…",
-        "read_file: {\"content\": \"48|def _geocode(q):\\n49|    \\\"\\\"\\\"-> list of (…",
-        "terminal: {\"output\": \"{\\n  \\\"query\\\": \\\"karangploso\\\",\\n  \\\"results\\\"…",
-        "read_file: {\"content\": \"183|            text = doc.get(\\\"description\\\"…"
+        "terminal: {\"output\": \"\", \"exit_code\": -1, \"error\": \"Foreground comman…",
+        "read_file: {\"content\": \"484|    # Post tanpa area yang dikenali dari d…",
+        "terminal: {\"output\": \"total dibalas log: 200\\nlast 25:\\n1844278316512…",
+        "read_file: {\"content\": \"270|    story = any(k in t for k in (\\n271|   …",
+        "terminal: {\"output\": \"25330 /opt/data/repliz_bot/repliz_cron.log\\n===…",
+        "read_file: {\"content\": \"1|#!/usr/bin/env python3\\n2|\\\"\\\"\\\"\\n3|Repliz T…"
       ]
     },
     {
