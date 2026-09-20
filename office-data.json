@@ -57,12 +57,12 @@
       "role": "ai-engineer",
       "task": "Riset: Tracking Whale di Hyperliquid via API",
       "slackMessages": [
-        "search_files: {\"total_count\": 2, \"matches\": [{\"path\": \"/opt/data/crypto_s…",
-        "read_file: {\"content\": \"1|#!/bin/bash\\n2|# Scan PENUH 20:00 WIB: 200 k…",
-        "read_file: {\"content\": \"1|#!/bin/bash\\n2|# Scan CEPAT tiap 12 jam: 25 …",
-        "terminal: {\"output\": \"Sun Sep 20 08:59:03 UTC 2026\\nSun Sep 20 08:59:…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/scripts/scan_cry…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/scripts/scan_cry…"
+        "todo: {\"todos\": [{\"id\": \"1\", \"content\": \"Pelajari scan/cron/lapor…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/crypto_scanner/p…",
+        "search_files: {\"total_count\": 0, \"error\": \"Path not found: /opt/data/.her…",
+        "terminal: {\"output\": \"-rw-rw-r-- 1 hermes hermes 53526 Sep 20 09:10 /…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'cr…",
+        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"2710a6ce6ccf…"
       ]
     },
     {
