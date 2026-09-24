@@ -70,12 +70,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"=== Dakwah_04_Pendosa_Didoakan\\n27\\nDialogue: 0…",
-        "terminal: {\"output\": \"thumb4 ukuran (1080, 1920) panel_bawah_mean 222…",
-        "terminal: {\"output\": \"qa4_intro: ukuran=400x712 kontras_atas=47.5 bri…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …"
+        "terminal: {\"output\": \"--- Dakwah_04_Pendosa_Didoakan\\nwidth=1080\\nhei…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"output\": \"55: im=Image.open(P/f\\\"{name}_photo.jpg\\\");cx=i…"
       ]
     },
     {
