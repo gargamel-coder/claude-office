@@ -70,12 +70,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "delegate_task: {\"status\": \"dispatched\", \"mode\": \"background\", \"count\": 1, …",
-        "terminal: {\"output\": \"ll, \\\"notify_on_complete\\\": true}\\n15:19:37 too…",
-        "terminal: {\"output\": \"[('words_3441.json', 5988), ('section_3441.mp4'…",
-        "terminal: {\"output\": \"s ustaz referensi; sumber ini ustaz Nursamsul Q…",
-        "terminal: {\"output\": \"[youtube] Extracting URL: https://www.youtube.c…",
-        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…"
+        "terminal: {\"output\": \"=== Dakwah_04_Pendosa_Didoakan\\n27\\nDialogue: 0…",
+        "terminal: {\"output\": \"thumb4 ukuran (1080, 1920) panel_bawah_mean 222…",
+        "terminal: {\"output\": \"qa4_intro: ukuran=400x712 kontras_atas=47.5 bri…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …"
       ]
     },
     {
