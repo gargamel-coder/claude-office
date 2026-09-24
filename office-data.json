@@ -70,12 +70,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"00:25:01,279 --> 00:25:05,440 menguburkannya di…",
-        "terminal: {\"output\": \"=== BAGIAN ===\\n514 00:24:20,640 --> 00:24:25,3…",
-        "terminal: {\"output\": \"33:58 34:45 47\\n51:25 52:13 48\\n61:34 62:27 53\\…",
-        "terminal: {\"output\": \"00:16:01,759 --> 00:16:07,160 pintu-pintu yang …",
-        "terminal: {\"output\": \"00:00:05,560 --> 00:00:08,560 Bismillahirrahman…",
-        "terminal: {\"output\": \"[('source.id-orig.srt', 102307), ('source.id.sr…"
+        "delegate_task: {\"status\": \"dispatched\", \"mode\": \"background\", \"count\": 1, …",
+        "terminal: {\"output\": \"ll, \\\"notify_on_complete\\\": true}\\n15:19:37 too…",
+        "terminal: {\"output\": \"[('words_3441.json', 5988), ('section_3441.mp4'…",
+        "terminal: {\"output\": \"s ustaz referensi; sumber ini ustaz Nursamsul Q…",
+        "terminal: {\"output\": \"[youtube] Extracting URL: https://www.youtube.c…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…"
       ]
     },
     {
