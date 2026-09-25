@@ -1,6 +1,14 @@
 {
   "scenarios": [
     {
+      "name": "Monitor Berita",
+      "role": "general-purpose",
+      "task": "Monitor Berita: menangani topik Monitor Berita",
+      "slackMessages": [
+        "working on: tasks"
+      ]
+    },
+    {
       "name": "Topik 5307",
       "role": "general-purpose",
       "task": "Topik 5307: Perbaikan Bug Deploy Hantu base_mint",
@@ -88,22 +96,14 @@
         "cronjob: {   \"success\": true,   \"count\": 4,   \"jobs\": [     {       …",
         "read_file: {\"content\": \"1|# Catatan Kontribusi $FLOP / Technocore (jan…"
       ]
-    },
-    {
-      "name": "Berita",
-      "role": "code-reviewer",
-      "task": "Berita: Penggunaan AI DeepSeek oleh Hacker China",
-      "slackMessages": [
-        "terminal: {\"output\": \"[Command interrupted]\", \"exit_code\": 130, \"erro…",
-        "read_file: {\"content\": \"1|{\\\"data\\\":null,\\\"code\\\":403,\\\"name\\\":\\\"Abuse…",
-        "terminal: {\"output\": \"697 /opt/data/tmp/astra_verge.txt\", \"exit_code\"…",
-        "terminal: {\"output\": \"===ASTRA-SAFETY===\\nhref=\\\"https://cxotoday.com…",
-        "read_file: {\"content\": \"251|# [OpenAI unleashes Astra, its most capabl…",
-        "read_file: {\"content\": \"121|\\n122|    *   #### [Health](https://www.fa…"
-      ]
     }
   ],
   "chatter": [
+    {
+      "sender": "Monitor Berita",
+      "role": "general-purpose",
+      "msg": "siap kerjakan menangani topik Monitor Berita"
+    },
     {
       "sender": "Topik 5307",
       "role": "general-purpose",
@@ -138,11 +138,6 @@
       "sender": "FLOP Airdrop",
       "role": "test-engineer",
       "msg": "siap kerjakan Langkah Berikutnya Kontribusi FLOP"
-    },
-    {
-      "sender": "Berita",
-      "role": "code-reviewer",
-      "msg": "siap kerjakan Penggunaan AI DeepSeek oleh Hacker China"
     },
     {
       "sender": "Crypto Scanner",
