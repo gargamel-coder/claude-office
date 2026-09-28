@@ -39,12 +39,12 @@
       "role": "general-purpose",
       "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
       "slackMessages": [
-        "terminal: {\"output\": \"158859 /tmp/ffd_sep11.html\\ncomp: 8914\\nevents:…",
-        "cronjob: {   \"success\": true,   \"job_id\": \"7ae35ca333f4\",   \"name\": …",
-        "terminal: {\"output\": \"events: 39\\nSep 10, 2026 | 10-y Bond Auction | …",
-        "terminal: {\"output\": \"<!doctype html>\\n<html itemscope=\\\"itemscope\\\" …",
-        "terminal: {\"output\": \"exit:0\\n5357 /tmp/ffd_sep10b.html\\ncomp: -1\\n--…",
-        "terminal: {\"output\": \"== Asian+stocks+fall+oil+surge+Treasury+yields …"
+        "terminal: {\"output\": \"jobs type: <class 'list'> len 16\\npatched -> de…",
+        "terminal: {\"output\": \"Traceback (most recent call last):\\n  File \\\"<s…",
+        "terminal: {\"output\": \"id = 'ed58ce7f1819'\\nname = 'Makro Bitcoin Ming…",
+        "terminal: {\"output\": \"<class 'dict'>\\n['jobs', 'updated_at']\\n{\\n  \\\"…",
+        "terminal: {\"output\": \"('ed58ce7f1819', 'failed', \\\"RuntimeError: Skip…",
+        "terminal: {\"output\": \"['id', 'job_id', 'source', 'process_id', 'pid',…"
       ]
     },
     {
