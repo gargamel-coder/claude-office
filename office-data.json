@@ -39,12 +39,12 @@
       "role": "general-purpose",
       "task": "Topik 4424: Cron Makro Bitcoin Mingguan",
       "slackMessages": [
+        "cronjob: {   \"success\": true,   \"job\": {     \"job_id\": \"ed58ce7f1819…",
         "terminal: {\"output\": \"jobs type: <class 'list'> len 16\\npatched -> de…",
         "terminal: {\"output\": \"Traceback (most recent call last):\\n  File \\\"<s…",
         "terminal: {\"output\": \"id = 'ed58ce7f1819'\\nname = 'Makro Bitcoin Ming…",
         "terminal: {\"output\": \"<class 'dict'>\\n['jobs', 'updated_at']\\n{\\n  \\\"…",
-        "terminal: {\"output\": \"('ed58ce7f1819', 'failed', \\\"RuntimeError: Skip…",
-        "terminal: {\"output\": \"['id', 'job_id', 'source', 'process_id', 'pid',…"
+        "terminal: {\"output\": \"('ed58ce7f1819', 'failed', \\\"RuntimeError: Skip…"
       ]
     },
     {
