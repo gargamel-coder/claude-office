@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"kandidat2/f028.png  1080x1920\\n\\nprofil kolom (…",
-        "write_file: {\"bytes_written\": 722, \"dirs_created\": true, \"lint\": {\"stat…",
-        "clarify: {\"question\": \"Nomor berapa yang wajahnya paling sopan (mata…",
-        "read_file: {\"content\": \"184|    - session_search\\n185|    - skills\\n18…",
-        "read_file: {\"content\": \"94|  threshold: 0.5\\n95|  target_ratio: 0.2\\n9…",
-        "read_file: {\"content\": \"24|agent:\\n25|  max_turns: 150\\n26|  verbose: …"
+        "terminal: {\"output\": \"SUMBER mentah            640x360  ketajaman(mea…",
+        "terminal: {\"output\": \"dibuat: /opt/data/clips_projects/1Ziser4bQ_E/uj…",
+        "write_file: {\"bytes_written\": 852, \"dirs_created\": true, \"lint\": {\"stat…",
+        "terminal: {\"output\": \"840 sampel (0.1 dtk), durasi ~84 dtk\\nRMS dB: m…",
+        "write_file: {\"bytes_written\": 2686, \"dirs_created\": true, \"lint\": {\"sta…",
+        "terminal: {\"output\": \"0 sampel audio (0.1 dtk/sampel), durasi ~0 dtk\\…"
       ]
     },
     {
