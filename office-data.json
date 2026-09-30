@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 7849329 Sep 30 17:30…",
         "todo: {\"todos\": [{\"id\": \"1\", \"content\": \"Cek video 360p: ukuran, …",
         "write_file: {\"bytes_written\": 3318, \"dirs_created\": true, \"lint\": {\"sta…",
         "clarify: {\"question\": \"Bagaimana hasilnya?\", \"choices_offered\": [\"Su…",
         "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 7849329 Sep 30 17:30…",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…"
       ]
     },
     {
