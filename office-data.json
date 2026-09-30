@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"48 1721\\n46 1649\\n44 1577\\n42 1506\\n40 1434\\n38…",
-        "terminal: {\"output\": \"TIDAK MUAT bahkan 32 :: seterusnya maka mereka …",
-        "terminal: {\"output\": \"=== cek event terpanjang di ASS pos ===\\n== Dak…",
-        "terminal: {\"output\": \"Dakwah_04_Pendosa_Didoakan | pita (1356, 1576) …",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini menampilkan …",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar menampilkan seor…",
+        "vision_analyze: {   \"success\": false,   \"error\": \"Error analyzing image: <h…",
+        "write_file: {\"bytes_written\": 2316, \"dirs_created\": true, \"lint\": {\"sta…",
+        "terminal: {\"output\": \"############ E. Skrip: intro diambil dari mana?…"
       ]
     },
     {
