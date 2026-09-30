@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"/opt/data/clips_projects/Jb84hP0YLU/RIWAYAT-PER…",
-        "vision_analyze: {   \"success\": false,   \"error\": \"Error analyzing image: <h…",
-        "vision_analyze: {   \"success\": false,   \"error\": \"Error analyzing image: <h…",
-        "terminal: {\"output\": \"width=1080\\nheight=1920\\nduration=99.933333\\nwi…",
-        "process: {\"status\": \"exited\", \"command\": \"uv run --with pillow pytho…",
-        "process: {\"status\": \"timeout\", \"command\": \"uv run --with pillow pyth…"
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar vertikal ini men…",
+        "terminal: {\"output\": \"layout patch True True\", \"exit_code\": 0, \"error…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/J…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/J…"
       ]
     },
     {
