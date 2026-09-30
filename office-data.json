@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"== Dakwah_04_Pendosa_Didoakan\\nwidth=1080\\nheig…",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
-        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"pita baru True\\nsintaks-ok\\n1020 putih>230: 142…"
+        "terminal: {\"output\": \"48 1721\\n46 1649\\n44 1577\\n42 1506\\n40 1434\\n38…",
+        "terminal: {\"output\": \"TIDAK MUAT bahkan 32 :: seterusnya maka mereka …",
+        "terminal: {\"output\": \"=== cek event terpanjang di ASS pos ===\\n== Dak…",
+        "terminal: {\"output\": \"Dakwah_04_Pendosa_Didoakan | pita (1356, 1576) …",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …"
       ]
     },
     {
