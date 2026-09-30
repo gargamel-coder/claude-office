@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"SUMBER mentah            640x360  ketajaman(mea…",
-        "terminal: {\"output\": \"dibuat: /opt/data/clips_projects/1Ziser4bQ_E/uj…",
-        "write_file: {\"bytes_written\": 852, \"dirs_created\": true, \"lint\": {\"stat…",
-        "terminal: {\"output\": \"840 sampel (0.1 dtk), durasi ~84 dtk\\nRMS dB: m…",
-        "write_file: {\"bytes_written\": 2686, \"dirs_created\": true, \"lint\": {\"sta…",
-        "terminal: {\"output\": \"0 sampel audio (0.1 dtk/sampel), durasi ~0 dtk\\…"
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gemini 3.5 Flash is no …",
+        "terminal: {\"output\": \"===============================================…",
+        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/1…",
+        "terminal: {\"output\": \"===============================================…",
+        "write_file: {\"bytes_written\": 2317, \"dirs_created\": true, \"lint\": {\"sta…",
+        "terminal: {\"output\": \"intro + thumbnail disimpan, frame detik 67.0\\ns…"
       ]
     },
     {
