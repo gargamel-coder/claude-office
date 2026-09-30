@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
+        "terminal: {\"output\": \"beda jpg vs intro video klip5 = 0.87 (<8 berart…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…",
         "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini menampilkan …",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar menampilkan seor…",
-        "vision_analyze: {   \"success\": false,   \"error\": \"Error analyzing image: <h…",
-        "write_file: {\"bytes_written\": 2316, \"dirs_created\": true, \"lint\": {\"sta…",
-        "terminal: {\"output\": \"############ E. Skrip: intro diambil dari mana?…"
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini berupa cupli…"
       ]
     },
     {
