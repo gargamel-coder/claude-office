@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"=== apakah tiap format punya host/URL berbeda? …",
-        "terminal: {\"output\": \"range=0-5000000              -> 206|1000001\\nra…",
-        "terminal: {\"output\": \"=== apakah URL punya parameter rentang waktu? =…",
-        "terminal: {\"output\": \"0-6000000 (6 MB) -> 206\\n0-8000000 (8 MB) -> 40…",
-        "terminal: {\"output\": \"range 0-1000 -> 206|1001\\nrange 0-100000 -> 206…",
-        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…"
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 173835 Oct  2 08:43 …",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
+        "terminal: {\"error\": \"Foreground timeout 900s exceeds the maximum of 6…",
+        "write_file: {\"bytes_written\": 1461, \"dirs_created\": true, \"lint\": {\"sta…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah thumb…"
       ]
     },
     {
