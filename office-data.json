@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 173835 Oct  2 08:43 …",
+        "terminal: {\"output\": \"K1: 38 cue, 2624-2727 dtk\\nK6: 25 cue, 3776-385…",
+        "write_file: {\"bytes_written\": 4125, \"dirs_created\": true, \"lint\": {\"sta…",
+        "terminal: {\"output\": \"K1_v.mp4: 101.133008\\nK1_a.m4a: 101.000998\\nK6_…",
+        "terminal: {\"output\": \"=== verifikasi ===\\nformat_name=mov,mp4,m4a,3gp…",
         "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"error\": \"Foreground timeout 900s exceeds the maximum of 6…",
-        "write_file: {\"bytes_written\": 1461, \"dirs_created\": true, \"lint\": {\"sta…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Gambar ini adalah thumb…"
+        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…"
       ]
     },
     {
