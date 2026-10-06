@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes  166151 Oct  2 10:38…",
-        "vision_analyze: {   \"success\": true,   \"analysis\": \"Berikut deskripsi gamba…",
-        "terminal: {\"output\": \"thumb_final_K1.jpg: font 58, 2 baris ['Puasa Su…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/E…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/E…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/E…"
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…",
+        "skill_manage: {\"success\": true, \"message\": \"Patched SKILL.md in skill 'yo…",
+        "skill_view: {\"success\": true, \"name\": \"youtube-clip-vertical-subtitles\"…",
+        "clarify: {\"question\": \"Band kuning-hijau pucat \\\"Omongan ustadznya d…",
+        "clarify: {\"question\": \"Gambar ke-2 ini beda dari gambar pertama: fot…"
       ]
     },
     {
