@@ -78,12 +78,12 @@
       "role": "frontend-developer",
       "task": "Konten/YouTube: Unduh Video YouTube Bocor Alus Jokowi",
       "slackMessages": [
-        "terminal: {\"output\": \"Background process started\", \"session_id\": \"pro…",
-        "terminal: {\"output\": \"bersih\", \"exit_code\": 0, \"error\": null, \"approv…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/A…",
-        "patch: {\"success\": true, \"diff\": \"--- a//opt/data/clips_projects/A…",
-        "terminal: {\"output\": \"ukuran: (640, 360)\\n70% y=252: piksel merah=33\\…",
-        "write_file: {\"bytes_written\": 489, \"dirs_created\": true, \"lint\": {\"stat…"
+        "terminal: {\"output\": \"-rw-r--r-- 1 hermes hermes 25140596 Oct  6 17:4…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Here's what I see in th…",
+        "vision_analyze: {   \"success\": true,   \"analysis\": \"Deskripsi gambar:\\n\\nIn…",
+        "terminal: {\"output\": \"=== durasi & audio ===\\nout_A.mp4:\\n80.133333\\n…",
+        "process: {\"status\": \"exited\", \"command\": \"cd /opt/data/clips_project…",
+        "process: {\"status\": \"timeout\", \"command\": \"cd /opt/data/clips_projec…"
       ]
     },
     {
